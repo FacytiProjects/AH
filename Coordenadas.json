@@ -1,0 +1,5512 @@
+[
+ {
+   "Ciudad": "Acajete",
+   "Latitud": 19.10965,
+   "Longitud": -97.95112
+ },
+ {
+   "Ciudad": "San Jose Acateno",
+   "Latitud": 20.1,
+   "Longitud": -97.2
+ },
+ {
+   "Ciudad": "Acatlan",
+   "Latitud": 18.20191,
+   "Longitud": -98.04753
+ },
+ {
+   "Ciudad": "Acatzingo de Hdalgo",
+   "Latitud": 18.97968,
+   "Longitud": -97.78347
+ },
+ {
+   "Ciudad": "Acteopan",
+   "Latitud": 18.9,
+   "Longitud": -97.31667
+ },
+ {
+   "Ciudad": "Ahuacatlan",
+   "Latitud": 20.00582,
+   "Longitud": -97.86257
+ },
+ {
+   "Ciudad": "Ahuatlan",
+   "Latitud": 18.57188,
+   "Longitud": -98.25683
+ },
+ {
+   "Ciudad": "Ahuazotepec",
+   "Latitud": 20.04433,
+   "Longitud": -98.16182
+ },
+ {
+   "Ciudad": "Ahuehuetitla",
+   "Latitud": 18.21233,
+   "Longitud": -98.21976
+ },
+ {
+   "Ciudad": "Ajalpan",
+   "Latitud": 18.37825,
+   "Longitud": -97.25899
+ },
+ {
+   "Ciudad": "Acaxtlahuacan de Albino Zertuche",
+   "Latitud": 18.01739,
+   "Longitud": -98.54052
+ },
+ {
+   "Ciudad": "Aljojuca",
+   "Latitud": 19.10111,
+   "Longitud": -97.53139
+ },
+ {
+   "Ciudad": "Altepexi",
+   "Latitud": 18.36971,
+   "Longitud": -97.29964
+ },
+ {
+   "Ciudad": "Amixtlan",
+   "Latitud": 20.02783,
+   "Longitud": -97.75342
+ },
+ {
+   "Ciudad": "Amozoc",
+   "Latitud": 19.04765,
+   "Longitud": -98.05743
+ },
+ {
+   "Ciudad": "Aquixtla",
+   "Latitud": 19.79661,
+   "Longitud": -97.93563
+ },
+ {
+   "Ciudad": "Atempan",
+   "Latitud": 19.83796,
+   "Longitud": -97.45649
+ },
+ {
+   "Ciudad": "Atexcal",
+   "Latitud": 18.4484,
+   "Longitud": -97.63606
+ },
+ {
+   "Ciudad": "Atlequizayan",
+   "Latitud": 20.01288,
+   "Longitud": -97.62458
+ },
+ {
+   "Ciudad": "Atlixco",
+   "Latitud": 18.88898,
+   "Longitud": -98.45132
+ },
+ {
+   "Ciudad": "Abejones",
+   "Latitud": 17.43692,
+   "Longitud": -96.60151
+ },
+ {
+   "Ciudad": "Acatlan de Perez-Figueroa",
+   "Latitud": 18.53333,
+   "Longitud": -96.61667
+ },
+ {
+   "Ciudad": "Animas Trujano",
+   "Latitud": 16.99466,
+   "Longitud": -96.71334
+ },
+ {
+   "Ciudad": "Asuncion Cacalotepec",
+   "Latitud": 17.03641,
+   "Longitud": -95.958
+ },
+ {
+   "Ciudad": "Asuncion Cuyotepeji",
+   "Latitud": 17.92863,
+   "Longitud": -97.67553
+ },
+ {
+   "Ciudad": "Asuncion Ixtaltepec",
+   "Latitud": 16.50333,
+   "Longitud": -95.05511
+ },
+ {
+   "Ciudad": "Asuncion Nochixtlan",
+   "Latitud": 17.52647,
+   "Longitud": -97.22269
+ },
+ {
+   "Ciudad": "Asuncion Ocotlan",
+   "Latitud": 16.76185,
+   "Longitud": -96.72066
+ },
+ {
+   "Ciudad": "Asuncion Tlacolulita",
+   "Latitud": 16.2995,
+   "Longitud": -95.72588
+ },
+ {
+   "Ciudad": "Ayoquezco de Aldama",
+   "Latitud": 16.68148,
+   "Longitud": -96.84379
+ },
+ {
+   "Ciudad": "Ayotzintepec",
+   "Latitud": 17.67,
+   "Longitud": -96.13004
+ },
+ {
+   "Ciudad": "Calihuala",
+   "Latitud": 17.58333,
+   "Longitud": -98.16667
+ },
+ {
+   "Ciudad": "Candelaria Loxicha",
+   "Latitud": 15.92539,
+   "Longitud": -96.49017
+ },
+ {
+   "Ciudad": "Capulalpam de Mendez",
+   "Latitud": 17.30597,
+   "Longitud": -96.44572
+ },
+ {
+   "Ciudad": "Chahuites",
+   "Latitud": 16.28857,
+   "Longitud": -94.19559
+ },
+ {
+   "Ciudad": "Chalcatongo de Hidalgo",
+   "Latitud": 16.98333,
+   "Longitud": -96.58333
+ },
+ {
+   "Ciudad": "Chiquihuitlan de Benito Juarez",
+   "Latitud": 17.98333,
+   "Longitud": -96.8
+ },
+ {
+   "Ciudad": "Cienega de Zimatlan",
+   "Latitud": 16.89291,
+   "Longitud": -96.76906
+ },
+ {
+   "Ciudad": "Ciudad Ixtepec",
+   "Latitud": 16.56278,
+   "Longitud": -95.1
+ },
+ {
+   "Ciudad": "Coatecas Altas",
+   "Latitud": 16.53783,
+   "Longitud": -96.66789
+ },
+ {
+   "Ciudad": "Coicoyan de las Flores",
+   "Latitud": 17.29006,
+   "Longitud": -98.24822
+ },
+ {
+   "Ciudad": "Concepcion Buenavista",
+   "Latitud": 17.87849,
+   "Longitud": -97.39983
+ },
+ {
+   "Ciudad": "Concepcion Papalo",
+   "Latitud": 17.83252,
+   "Longitud": -96.85177
+ },
+ {
+   "Ciudad": "Constancia Del Rosario",
+   "Latitud": 17.03867,
+   "Longitud": -97.9429
+ },
+ {
+   "Ciudad": "Cosolapa",
+   "Latitud": 18.60609,
+   "Longitud": -96.66068
+ },
+ {
+   "Ciudad": "Cosoltepec",
+   "Latitud": 18.14272,
+   "Longitud": -97.79067
+ },
+ {
+   "Ciudad": "Cuilapam de Guerrero",
+   "Latitud": 16.9967,
+   "Longitud": -96.78154
+ },
+ {
+   "Ciudad": "Cuyamecalco Villa de Zaragoza",
+   "Latitud": 17.95216,
+   "Longitud": -96.84738
+ },
+ {
+   "Ciudad": "El Barrio de La Soledad",
+   "Latitud": 16.74583,
+   "Longitud": -95.07104
+ },
+ {
+   "Ciudad": "El Espinal",
+   "Latitud": 16.48472,
+   "Longitud": -95.04167
+ },
+ {
+   "Ciudad": "Eloxochitlan de Flores Magon",
+   "Latitud": 18.18333,
+   "Longitud": -96.86667
+ },
+ {
+   "Ciudad": "Fresnillo de Trujano",
+   "Latitud": 17.90761,
+   "Longitud": -98.13396
+ },
+ {
+   "Ciudad": "Guadalupe de Ramirez",
+   "Latitud": 17.75274,
+   "Longitud": -98.16539
+ },
+ {
+   "Ciudad": "Guadalupe Etla",
+   "Latitud": 17.17103,
+   "Longitud": -96.80823
+ },
+ {
+   "Ciudad": "Guelatao de Juarez",
+   "Latitud": 17.31736,
+   "Longitud": -96.49511
+ },
+ {
+   "Ciudad": "Guevea de Humboldt",
+   "Latitud": 17.13667,
+   "Longitud": -96.8125
+ },
+ {
+   "Ciudad": "Heroica Ciudad de Ejutla de Crespo",
+   "Latitud": 16.49512,
+   "Longitud": -96.73699
+ },
+ {
+   "Ciudad": "Heroica Ciudad de Huajuapan de Leon",
+   "Latitud": 17.80475,
+   "Longitud": -97.78076
+ },
+ {
+   "Ciudad": "Heroica Ciudad de Tlaxiaco",
+   "Latitud": 17.19828,
+   "Longitud": -97.77056
+ },
+ {
+   "Ciudad": "Huautepec",
+   "Latitud": 16.5625,
+   "Longitud": -96.03111
+ },
+ {
+   "Ciudad": "Huautla de Jimenez",
+   "Latitud": 18.16368,
+   "Longitud": -96.75445
+ },
+ {
+   "Ciudad": "Ixpantepec Nieves",
+   "Latitud": 17.50765,
+   "Longitud": -98.04433
+ },
+ {
+   "Ciudad": "Ixtlan de Juarez",
+   "Latitud": 17.32529,
+   "Longitud": -96.47392
+ },
+ {
+   "Ciudad": "Juchitan de Zaragoza",
+   "Latitud": 16.29719,
+   "Longitud": -95.08763
+ },
+ {
+   "Ciudad": "La Compania",
+   "Latitud": 16.57461,
+   "Longitud": -96.79546
+ },
+ {
+   "Ciudad": "La Pe",
+   "Latitud": 16.60579,
+   "Longitud": -96.77853
+ },
+ {
+   "Ciudad": "La Reforma",
+   "Latitud": 16.73749,
+   "Longitud": -97.87511
+ },
+ {
+   "Ciudad": "La Trinidad Vista Hermosa",
+   "Latitud": 17.77094,
+   "Longitud": -97.50515
+ },
+ {
+   "Ciudad": "Loma Bonita",
+   "Latitud": 18.10741,
+   "Longitud": -95.87984
+ },
+ {
+   "Ciudad": "Magdalena Apasco",
+   "Latitud": 17.24067,
+   "Longitud": -96.82192
+ },
+ {
+   "Ciudad": "Magdalena Jaltepec",
+   "Latitud": 17.32259,
+   "Longitud": -97.17352
+ },
+ {
+   "Ciudad": "Magdalena Mixtepec",
+   "Latitud": 16.89609,
+   "Longitud": -96.90682
+ },
+ {
+   "Ciudad": "Magdalena Ocotlan",
+   "Latitud": 16.70235,
+   "Longitud": -96.67804
+ },
+ {
+   "Ciudad": "Magdalena Penasco",
+   "Latitud": 17.23577,
+   "Longitud": -97.55175
+ },
+ {
+   "Ciudad": "Magdalena Teitipac",
+   "Latitud": 16.90627,
+   "Longitud": -96.55853
+ },
+ {
+   "Ciudad": "Magdalena Tequisistlan",
+   "Latitud": 16.39666,
+   "Longitud": -95.60162
+ },
+ {
+   "Ciudad": "Magdalena Tlacotepec",
+   "Latitud": 16.52594,
+   "Longitud": -95.18134
+ },
+ {
+   "Ciudad": "Magdalena Yodocono de Porfirio Diaz",
+   "Latitud": 17.38524,
+   "Longitud": -97.35274
+ },
+ {
+   "Ciudad": "Magdalena Zahuatlan",
+   "Latitud": 17.39481,
+   "Longitud": -97.21866
+ },
+ {
+   "Ciudad": "Mariscala de Juarez",
+   "Latitud": 17.85617,
+   "Longitud": -98.18542
+ },
+ {
+   "Ciudad": "Martires de Tacubaya",
+   "Latitud": 16.57322,
+   "Longitud": -98.22359
+ },
+ {
+   "Ciudad": "Matias Romero Avendano",
+   "Latitud": 17.09083,
+   "Longitud": -94.88333
+ },
+ {
+   "Ciudad": "Mazatlan Villa de Flores",
+   "Latitud": 18.06136,
+   "Longitud": -96.84808
+ },
+ {
+   "Ciudad": "Mesones Hidalgo",
+   "Latitud": 16.84616,
+   "Longitud": -97.98734
+ },
+ {
+   "Ciudad": "Miahuatlan de Porfirio Diaz",
+   "Latitud": 16.47161,
+   "Longitud": -96.7321
+ },
+ {
+   "Ciudad": "Mixistlan de la Reforma",
+   "Latitud": 17.16498,
+   "Longitud": -96.09322
+ },
+ {
+   "Ciudad": "Monjas",
+   "Latitud": 16.3675,
+   "Longitud": -96.63639
+ },
+ {
+   "Ciudad": "Natividad",
+   "Latitud": 17.29704,
+   "Longitud": -96.42992
+ },
+ {
+   "Ciudad": "Nazareno Etla",
+   "Latitud": 17.17685,
+   "Longitud": -96.8279
+ },
+ {
+   "Ciudad": "Nejapa de Madero",
+   "Latitud": 16.55637,
+   "Longitud": -96.02937
+ },
+ {
+   "Ciudad": "Nuevo Zoquiapam",
+   "Latitud": 18.25862,
+   "Longitud": -96.81018
+ },
+ {
+   "Ciudad": "Oaxaca de Juarez",
+   "Latitud": 7.11867,
+   "Longitud": -96.7607
+ },
+ {
+   "Ciudad": "Ocotlan de Morelos",
+   "Latitud": 16.72282,
+   "Longitud": -96.79118
+ },
+ {
+   "Ciudad": "Pinotepa de Don Luis",
+   "Latitud": 16.54667,
+   "Longitud": -96.15917
+ },
+ {
+   "Ciudad": "Pluma Hidalgo",
+   "Latitud": 15.92583,
+   "Longitud": -96.42003
+ },
+ {
+   "Ciudad": "Putla Villa de Guerrero",
+   "Latitud": 16.8,
+   "Longitud": -97.78333
+ },
+ {
+   "Ciudad": "Reforma de Pineda",
+   "Latitud": 17.45,
+   "Longitud": -95.53333
+ },
+ {
+   "Ciudad": "Reyes Etla",
+   "Latitud": 17.20312,
+   "Longitud": -96.81428
+ },
+ {
+   "Ciudad": "Rojas de Cuauhtemoc",
+   "Latitud": 17.00463,
+   "Longitud": -96.61816
+ },
+ {
+   "Ciudad": "Salina Cruz",
+   "Latitud": 16.18625,
+   "Longitud": -95.19245
+ },
+ {
+   "Ciudad": "San Agustin Amatengo",
+   "Latitud": 16.51059,
+   "Longitud": -96.79106
+ },
+ {
+   "Ciudad": "San Agustin Atenango",
+   "Latitud": 17.61132,
+   "Longitud": -98.01474
+ },
+ {
+   "Ciudad": "San Agustin Chayuco",
+   "Latitud": 16.40183,
+   "Longitud": -97.80834
+ },
+ {
+   "Ciudad": "San Agustin de las Juntas",
+   "Latitud": 17.00842,
+   "Longitud": -96.70895
+ },
+ {
+   "Ciudad": "San Agustin Etla",
+   "Latitud": 17.19119,
+   "Longitud": -96.77034
+ },
+ {
+   "Ciudad": "San Agustin Loxicha",
+   "Latitud": 15.95818,
+   "Longitud": -96.55991
+ },
+ {
+   "Ciudad": "San Agustin Tlacotepec",
+   "Latitud": 17.2078,
+   "Longitud": -97.51729
+ },
+ {
+   "Ciudad": "San Agustin Yatareni",
+   "Latitud": 17.06245,
+   "Longitud": -96.6555
+ },
+ {
+   "Ciudad": "San Andres Cabecera Nueva",
+   "Latitud": 16.88763,
+   "Longitud": -97.6746
+ },
+ {
+   "Ciudad": "San Andres Dinicuiti",
+   "Latitud": 17.69306,
+   "Longitud": -97.72611
+ },
+ {
+   "Ciudad": "San Andres Huaxpaltepec",
+   "Latitud": 16.36105,
+   "Longitud": -97.89143
+ },
+ {
+   "Ciudad": "San Andres Huayapam",
+   "Latitud": 17.10151,
+   "Longitud": -96.66552
+ },
+ {
+   "Ciudad": "San Andres Ixtlahuaca",
+   "Latitud": 17.04414,
+   "Longitud": -96.79492
+ },
+ {
+   "Ciudad": "San Andres Lagunas",
+   "Latitud": 17,
+   "Longitud": -97.95
+ },
+ {
+   "Ciudad": "San Andres Nuxino",
+   "Latitud": 17.23333,
+   "Longitud": -97.03333
+ },
+ {
+   "Ciudad": "San Andres Paxtlan",
+   "Latitud": 16.56667,
+   "Longitud": -94.81667
+ },
+ {
+   "Ciudad": "San Andres Sinaxtla",
+   "Latitud": 17.46667,
+   "Longitud": -97.28333
+ },
+ {
+   "Ciudad": "San Andres Solaga",
+   "Latitud": 17.28333,
+   "Longitud": -96.21667
+ },
+ {
+   "Ciudad": "San Andres Teotilalpam",
+   "Latitud": 17.98529,
+   "Longitud": -96.51796
+ },
+ {
+   "Ciudad": "San Andres Tepetlapa",
+   "Latitud": 17.61667,
+   "Longitud": -98.38333
+ },
+ {
+   "Ciudad": "San Andres Yaa",
+   "Latitud": 17.28333,
+   "Longitud": -96.15
+ },
+ {
+   "Ciudad": "San Andres Zabache",
+   "Latitud": 16.60237,
+   "Longitud": -96.85965
+ },
+ {
+   "Ciudad": "San Andres Zautla",
+   "Latitud": 17.18727,
+   "Longitud": -96.83392
+ },
+ {
+   "Ciudad": "San Antonino Castillo Velasco",
+   "Latitud": 16.79975,
+   "Longitud": -96.68141
+ },
+ {
+   "Ciudad": "San Antonino El Alto",
+   "Latitud": 16.81588,
+   "Longitud": -97.02912
+ },
+ {
+   "Ciudad": "San Antonino Monte Verde",
+   "Latitud": 17.05633,
+   "Longitud": -96.71138
+ },
+ {
+   "Ciudad": "San Antonio Acutla",
+   "Latitud": 17.74442,
+   "Longitud": -97.50128
+ },
+ {
+   "Ciudad": "San Antonio de La Cal",
+   "Latitud": 17.02338,
+   "Longitud": -96.70352
+ },
+ {
+   "Ciudad": "San Antonio Huitepec",
+   "Latitud": 16.92671,
+   "Longitud": -97.14579
+ },
+ {
+   "Ciudad": "San Antonio Nanahuatipam",
+   "Latitud": 18.13035,
+   "Longitud": -97.12397
+ },
+ {
+   "Ciudad": "San Antonio Sinicahua",
+   "Latitud": 17.15175,
+   "Longitud": -97.56874
+ },
+ {
+   "Ciudad": "San Antonio Tepetlapa",
+   "Latitud": 16.54294,
+   "Longitud": -98.0655
+ },
+ {
+   "Ciudad": "San Baltazar Chichicapam",
+   "Latitud": 16.76331,
+   "Longitud": -96.48887
+ },
+ {
+   "Ciudad": "San Baltazar Loxicha",
+   "Latitud": 16.07105,
+   "Longitud": -96.79998
+ },
+ {
+   "Ciudad": "San Baltazar Yatzachi El Bajo",
+   "Latitud": 17.21855,
+   "Longitud": -96.20886
+ },
+ {
+   "Ciudad": "San Bartolo Coyotepec",
+   "Latitud": 16.90954,
+   "Longitud": -96.72661
+ },
+ {
+   "Ciudad": "San Bartolo Soyaltepec",
+   "Latitud": 17.60892,
+   "Longitud": -97.27435
+ },
+ {
+   "Ciudad": "San Bartolo Yautepec",
+   "Latitud": 16.42728,
+   "Longitud": -95.9746
+ },
+ {
+   "Ciudad": "San Bartolome Ayautla",
+   "Latitud": 18.01922,
+   "Longitud": -96.74416
+ },
+ {
+   "Ciudad": "San Bartolome Loxicha",
+   "Latitud": 15.96667,
+   "Longitud": -96.71667
+ },
+ {
+   "Ciudad": "San Bartolome Quialana",
+   "Latitud": 16.90189,
+   "Longitud": -96.50131
+ },
+ {
+   "Ciudad": "San Bartolome Yucuane",
+   "Latitud": 17.23333,
+   "Longitud": -97.45
+ },
+ {
+   "Ciudad": "San Bartolome Zoogocho",
+   "Latitud": 17.23816,
+   "Longitud": -96.24146
+ },
+ {
+   "Ciudad": "San Bernardo Mixtepec",
+   "Latitud": 16.85975,
+   "Longitud": -96.98631
+ },
+ {
+   "Ciudad": "San Blas Atempa",
+   "Latitud": 16.31304,
+   "Longitud": -95.09935
+ },
+ {
+   "Ciudad": "San Carlos Yautepec",
+   "Latitud": 17.13667,
+   "Longitud": -96.8125
+ },
+ {
+   "Ciudad": "San Cristobal Amatlan",
+   "Latitud": 16.28213,
+   "Longitud": -96.36625
+ },
+ {
+   "Ciudad": "San Cristobal Amoltepec",
+   "Latitud": 17.31361,
+   "Longitud": -97.16583
+ },
+ {
+   "Ciudad": "San Cristobal Lachirioag",
+   "Latitud": 16.80436,
+   "Longitud": -96.3881
+ },
+ {
+   "Ciudad": "San Cristobal Suchixtlahuaca",
+   "Latitud": 17.72684,
+   "Longitud": -97.36702
+ },
+ {
+   "Ciudad": "San Dionisio Del Mar",
+   "Latitud": 16.32167,
+   "Longitud": -94.75694
+ },
+ {
+   "Ciudad": "San Dionisio Ocotepec",
+   "Latitud": 16.79498,
+   "Longitud": -96.3046
+ },
+ {
+   "Ciudad": "San Dionisio Ocotlan",
+   "Latitud": 16.74835,
+   "Longitud": -96.66364
+ },
+ {
+   "Ciudad": "San Esteban Atatlahuca",
+   "Latitud": 17.05323,
+   "Longitud": -97.66955
+ },
+ {
+   "Ciudad": "San Felipe Jalapa de Diaz",
+   "Latitud": 18.0636,
+   "Longitud": -96.48736
+ },
+ {
+   "Ciudad": "San Felipe Tejalapam",
+   "Latitud": 17.0714,
+   "Longitud": -96.87713
+ },
+ {
+   "Ciudad": "San Felipe Usila",
+   "Latitud": 16.33333,
+   "Longitud": -95.26667
+ },
+ {
+   "Ciudad": "San Francisco Cahuacua",
+   "Latitud": 16.88859,
+   "Longitud": -97.29552
+ },
+ {
+   "Ciudad": "San Francisco Cajonos",
+   "Latitud": 17.17197,
+   "Longitud": -96.24996
+ },
+ {
+   "Ciudad": "San Francisco Chapulapa",
+   "Latitud": 17.95111,
+   "Longitud": -96.73849
+ },
+ {
+   "Ciudad": "San Francisco Chindua",
+   "Latitud": 17.42923,
+   "Longitud": -97.31161
+ },
+ {
+   "Ciudad": "San Francisco Del Mar",
+   "Latitud": 16.33833,
+   "Longitud": -94.51472
+ },
+ {
+   "Ciudad": "San Francisco Huehuetlan",
+   "Latitud": 18.18968,
+   "Longitud": -96.94591
+ },
+ {
+   "Ciudad": "San Francisco Ixhuatan",
+   "Latitud": 16.28167,
+   "Longitud": -94.52561
+ },
+ {
+   "Ciudad": "San Francisco Jaltepetongo",
+   "Latitud": 17.38602,
+   "Longitud": -97.2635
+ },
+ {
+   "Ciudad": "San Francisco Lachigolo",
+   "Latitud": 17.01772,
+   "Longitud": -96.59686
+ },
+ {
+   "Ciudad": "San Francisco Logueche",
+   "Latitud": 16.35058,
+   "Longitud": -96.37786
+ },
+ {
+   "Ciudad": "San Francisco Nuxano",
+   "Latitud": 17.3806,
+   "Longitud": -97.34392
+ },
+ {
+   "Ciudad": "San Francisco Ozolotepec",
+   "Latitud": 16.1019,
+   "Longitud": -96.22177
+ },
+ {
+   "Ciudad": "San Francisco Sola",
+   "Latitud": 16.51874,
+   "Longitud": -96.97675
+ },
+ {
+   "Ciudad": "San Francisco Telixtlahuaca",
+   "Latitud": 17.35275,
+   "Longitud": -96.94237
+ },
+ {
+   "Ciudad": "San Francisco Teopan",
+   "Latitud": 17.84967,
+   "Longitud": -97.4952
+ },
+ {
+   "Ciudad": "San Francisco Tlapancingo",
+   "Latitud": 17.48882,
+   "Longitud": -98.29552
+ },
+ {
+   "Ciudad": "San Gabriel Mixtepec",
+   "Latitud": 16.09461,
+   "Longitud": -97.08156
+ },
+ {
+   "Ciudad": "San Ildefonso Amatlan",
+   "Latitud": 16.33333,
+   "Longitud": -96.5
+ },
+ {
+   "Ciudad": "San Ildefonso Sola",
+   "Latitud": 16.52093,
+   "Longitud": -96.98289
+ },
+ {
+   "Ciudad": "San Ildefonso Villa Alta",
+   "Latitud": 17.30787,
+   "Longitud": -96.16429
+ },
+ {
+   "Ciudad": "San Jacinto Amilpas",
+   "Latitud": 17.08835,
+   "Longitud": -96.75822
+ },
+ {
+   "Ciudad": "San Jacinto Tlacotepec",
+   "Latitud": 16.51456,
+   "Longitud": -97.38704
+ },
+ {
+   "Ciudad": "San Jeronimo Coatlan",
+   "Latitud": 16.18889,
+   "Longitud": -96.95821
+ },
+ {
+   "Ciudad": "San Jeronimo Silacayoapilla",
+   "Latitud": 17.81172,
+   "Longitud": -97.84358
+ },
+ {
+   "Ciudad": "San Jeronimo Sosola",
+   "Latitud": 17.36548,
+   "Longitud": -97.03309
+ },
+ {
+   "Ciudad": "San Jeronimo Taviche",
+   "Latitud": 16.71972,
+   "Longitud": -96.64036
+ },
+ {
+   "Ciudad": "San Jeronimo Tecoatl",
+   "Latitud": 18.15,
+   "Longitud": -96.91667
+ },
+ {
+   "Ciudad": "San Jeronimo Tlacochahuaya",
+   "Latitud": 17.01568,
+   "Longitud": -96.54082
+ },
+ {
+   "Ciudad": "San Jorge Nuchita",
+   "Latitud": 17.68333,
+   "Longitud": -98.11667
+ },
+ {
+   "Ciudad": "San Jose Ayuquila",
+   "Latitud": 17.94113,
+   "Longitud": -97.96775
+ },
+ {
+   "Ciudad": "San Jose Chiltepec",
+   "Latitud": 17.94836,
+   "Longitud": -96.16739
+ },
+ {
+   "Ciudad": "San Jose del Penasco",
+   "Latitud": 16.31913,
+   "Longitud": -96.49388
+ },
+ {
+   "Ciudad": "San Jose del Progreso",
+   "Latitud": 16.09517,
+   "Longitud": -97.69585
+ },
+ {
+   "Ciudad": "San Jose Estancia Grande",
+   "Latitud": 16.32763,
+   "Longitud": -98.3374
+ },
+ {
+   "Ciudad": "San Jose Independencia",
+   "Latitud": 18.20638,
+   "Longitud": -96.61124
+ },
+ {
+   "Ciudad": "San Jose Lachiguiri",
+   "Latitud": 16.37886,
+   "Longitud": -96.33475
+ },
+ {
+   "Ciudad": "San Jose Tenango",
+   "Latitud": 18.1492,
+   "Longitud": -96.71622
+ },
+ {
+   "Ciudad": "San Juan Achiutla",
+   "Latitud": 17.34476,
+   "Longitud": -97.50789
+ },
+ {
+   "Ciudad": "San Juan Atepec",
+   "Latitud": 17.42789,
+   "Longitud": -96.53874
+ },
+ {
+   "Ciudad": "San Juan Bautista-Atatlahuca",
+   "Latitud": 17.53183,
+   "Longitud": -96.83008
+ },
+ {
+   "Ciudad": "San Juan Bautista Coixtlahuaca",
+   "Latitud": 17.88738,
+   "Longitud": -97.38629
+ },
+ {
+   "Ciudad": "San Juan Bautista Cuicatlan",
+   "Latitud": 17.79881,
+   "Longitud": -96.95181
+ },
+ {
+   "Ciudad": "San Juan Bautista Guelache",
+   "Latitud": 16.81944,
+   "Longitud": -97.5625
+ },
+ {
+   "Ciudad": "San Juan Bautista Jayacatlan",
+   "Latitud": 17.40802,
+   "Longitud": -96.83005
+ },
+ {
+   "Ciudad": "San Juan Bautista Lo de Soto",
+   "Latitud": 16.51016,
+   "Longitud": -98.34311
+ },
+ {
+   "Ciudad": "San Juan Bautista Suchitepec",
+   "Latitud": 18.01323,
+   "Longitud": -97.65844
+ },
+ {
+   "Ciudad": "San Juan Bautista Tlachichilco",
+   "Latitud": 17.62249,
+   "Longitud": -98.34342
+ },
+ {
+   "Ciudad": "San Juan Bautista Tlacoatzintepec",
+   "Latitud": 17.85921,
+   "Longitud": -96.5853
+ },
+ {
+   "Ciudad": "San Juan Bautista Tuxtepec",
+   "Latitud": 17.8129,
+   "Longitud": -95.92997
+ },
+ {
+   "Ciudad": "San Juan Bautista Valle Nacional",
+   "Latitud": 17.77499,
+   "Longitud": -96.30347
+ },
+ {
+   "Ciudad": "San Juan Cacahuatepec",
+   "Latitud": 16.55196,
+   "Longitud": -98.12685
+ },
+ {
+   "Ciudad": "San Juan Chicomezuchil",
+   "Latitud": 17.2882,
+   "Longitud": -96.49653
+ },
+ {
+   "Ciudad": "San Juan Chilateca",
+   "Latitud": 16.82794,
+   "Longitud": -96.66767
+ },
+ {
+   "Ciudad": "San Juan Cieneguilla",
+   "Latitud": 17.85158,
+   "Longitud": -98.28085
+ },
+ {
+   "Ciudad": "San Juan Coatzospam",
+   "Latitud": 18.04855,
+   "Longitud": -96.76262
+ },
+ {
+   "Ciudad": "San Juan Colorado",
+   "Latitud": 16.4967,
+   "Longitud": -97.92288
+ },
+ {
+   "Ciudad": "San Juan Comaltepec",
+   "Latitud": 17.34568,
+   "Longitud": -95.9531
+ },
+ {
+   "Ciudad": "San Juan Cotzocon",
+   "Latitud": 17.44342,
+   "Longitud": -95.44057
+ },
+ {
+   "Ciudad": "San Juan de los Cues",
+   "Latitud": 18.05608,
+   "Longitud": -96.99482
+ },
+ {
+   "Ciudad": "San Juan Del Estado",
+   "Latitud": 17.27305,
+   "Longitud": -96.79959
+ },
+ {
+   "Ciudad": "San Juan Diuxi",
+   "Latitud": 17.28517,
+   "Longitud": -97.37699
+ },
+ {
+   "Ciudad": "San Juan Evangelista Analco",
+   "Latitud": 17.40563,
+   "Longitud": -96.5388
+ },
+ {
+   "Ciudad": "San Juan Guelavia",
+   "Latitud": 16.95427,
+   "Longitud": -96.54392
+ },
+ {
+   "Ciudad": "San Juan Guichicovi",
+   "Latitud": 17.16292,
+   "Longitud": -95.14485
+ },
+ {
+   "Ciudad": "San Juan Ihualtepec",
+   "Latitud": 17.8289,
+   "Longitud": -98.28814
+ },
+ {
+   "Ciudad": "San Juan Juquila Mixes",
+   "Latitud": 16.93424,
+   "Longitud": -95.91673
+ },
+ {
+   "Ciudad": "San Juan Juquila Vijanos",
+   "Latitud": 17.35492,
+   "Longitud": -96.29868
+ },
+ {
+   "Ciudad": "San Juan Lachao",
+   "Latitud": 18.14639,
+   "Longitud": -96.07667
+ },
+ {
+   "Ciudad": "San Juan Lachigalla",
+   "Latitud": 16.53278,
+   "Longitud": -96.55649
+ },
+ {
+   "Ciudad": "San Juan Lajarcia",
+   "Latitud": 16.50637,
+   "Longitud": -95.92491
+ },
+ {
+   "Ciudad": "San Juan Lalana",
+   "Latitud": 17.47006,
+   "Longitud": -95.87839
+ },
+ {
+   "Ciudad": "San Juan Mazatlan",
+   "Latitud": 17.0268,
+   "Longitud": -95.43961
+ },
+ {
+   "Ciudad": "San Juan Mixtepec Juxtlahuaca",
+   "Latitud": 16.29722,
+   "Longitud": -96.34361
+ },
+ {
+   "Ciudad": "San Juan Mixtepec Miahuatlan",
+   "Latitud": 16.27894,
+   "Longitud": -96.30118
+ },
+ {
+   "Ciudad": "San Juan Ozolotepec",
+   "Latitud": 17.28325,
+   "Longitud": -95.57617
+ },
+ {
+   "Ciudad": "San Juan Petlapa",
+   "Latitud": 17.46857,
+   "Longitud": -96.03781
+ },
+ {
+   "Ciudad": "San Juan Quiahije",
+   "Latitud": 16.32287,
+   "Longitud": -97.31861
+ },
+ {
+   "Ciudad": "San Juan Quiotepec",
+   "Latitud": 17.60231,
+   "Longitud": -96.58695
+ },
+ {
+   "Ciudad": "San Juan Sayultepec",
+   "Latitud": 17.45012,
+   "Longitud": -97.28539
+ },
+ {
+   "Ciudad": "San Juan Tabaa",
+   "Latitud": 17.29461,
+   "Longitud": -96.21953
+ },
+ {
+   "Ciudad": "San Juan Tamazola",
+   "Latitud": 17.09234,
+   "Longitud": -97.21451
+ },
+ {
+   "Ciudad": "San Juan Teita",
+   "Latitud": 17.09347,
+   "Longitud": -97.41387
+ },
+ {
+   "Ciudad": "San Juan Teitipac",
+   "Latitud": 16.93372,
+   "Longitud": -96.60542
+ },
+ {
+   "Ciudad": "San Juan Tepeuxila",
+   "Latitud": 17.77038,
+   "Longitud": -96.79101
+ },
+ {
+   "Ciudad": "San Juan Teposcolula",
+   "Latitud": 17.58845,
+   "Longitud": -97.44025
+ },
+ {
+   "Ciudad": "San Juan Umi",
+   "Latitud": 17.41167,
+   "Longitud": -97.69889
+ },
+ {
+   "Ciudad": "San Juan Yaee",
+   "Latitud": 17.43986,
+   "Longitud": -96.28681
+ },
+ {
+   "Ciudad": "San Juan Yatzona",
+   "Latitud": 17.40193,
+   "Longitud": -96.1693
+ },
+ {
+   "Ciudad": "San Juan Yucuita",
+   "Latitud": 17.50905,
+   "Longitud": -97.2707
+ },
+ {
+   "Ciudad": "San Lorenzo",
+   "Latitud": 16.39276,
+   "Longitud": -97.87413
+ },
+ {
+   "Ciudad": "San Lorenzom Albarradas",
+   "Latitud": 16.94302,
+   "Longitud": -96.22117
+ },
+ {
+   "Ciudad": "San Lorenzo Cacaotepec",
+   "Latitud": 17.14243,
+   "Longitud": -96.80405
+ },
+ {
+   "Ciudad": "San Lorenzo Cuaunecuiltitla",
+   "Latitud": 18.20693,
+   "Longitud": -96.91249
+ },
+ {
+   "Ciudad": "San Lorenzo Texmelucan",
+   "Latitud": 16.52121,
+   "Longitud": -97.15891
+ },
+ {
+   "Ciudad": "San Lorenzo Victoria",
+   "Latitud": 17.64309,
+   "Longitud": -98.09157
+ },
+ {
+   "Ciudad": "San Lucas Camotlan",
+   "Latitud": 16.95,
+   "Longitud": -95.78333
+ },
+ {
+   "Ciudad": "San Lucas Ojitlan",
+   "Latitud": 18.05876,
+   "Longitud": -96.39435
+ },
+ {
+   "Ciudad": "San Lucas Quiavini",
+   "Latitud": 16.90609,
+   "Longitud": -96.47105
+ },
+ {
+   "Ciudad": "San Luca Zoquiapam",
+   "Latitud": 18.13533,
+   "Longitud": -96.90584
+ },
+ {
+   "Ciudad": "San Luis Amatlan",
+   "Latitud": 16.49883,
+   "Longitud": -96.54751
+ },
+ {
+   "Ciudad": "San Marcial Ozolotepec",
+   "Latitud": 16.08954,
+   "Longitud": -96.40635
+ },
+ {
+   "Ciudad": "San Marcos Arteaga",
+   "Latitud": 17.72207,
+   "Longitud": -97.86052
+ },
+ {
+   "Ciudad": "San Martin de los Cansecos",
+   "Latitud": 16.70106,
+   "Longitud": -96.74378
+ },
+ {
+   "Ciudad": "San Martin Huamelulpam",
+   "Latitud": 17.3966,
+   "Longitud": -97.60665
+ },
+ {
+   "Ciudad": "San Martin Itunyoso",
+   "Latitud": 17.19112,
+   "Longitud": -97.89161
+ },
+ {
+   "Ciudad": "San Martin Lachila",
+   "Latitud": 16.6119,
+   "Longitud": -96.85208
+ },
+ {
+   "Ciudad": "San Martin Peras",
+   "Latitud": 17.43089,
+   "Longitud": -98.29092
+ },
+ {
+   "Ciudad": "San Martin Tilcajete",
+   "Latitud": 16.85828,
+   "Longitud": -96.6899
+ },
+ {
+   "Ciudad": "San Martin Toxpalan",
+   "Latitud": 18.11824,
+   "Longitud": -97.0248
+ },
+ {
+   "Ciudad": "San Martin Zacatepec",
+   "Latitud": 17.80523,
+   "Longitud": -98.0581
+ },
+ {
+   "Ciudad": "San Mateo Cajonos",
+   "Latitud": 17.16121,
+   "Longitud": -96.20842
+ },
+ {
+   "Ciudad": "San Mateo Del Mar",
+   "Latitud": 16.20881,
+   "Longitud": -94.98173
+ },
+ {
+   "Ciudad": "San Mateo Etlatongo",
+   "Latitud": 17.41551,
+   "Longitud": -97.27202
+ },
+ {
+   "Ciudad": "San Mateo Nejapam",
+   "Latitud": 17.64028,
+   "Longitud": -98.42522
+ },
+ {
+   "Ciudad": "San Mateo Penasco",
+   "Latitud": 17.15081,
+   "Longitud": -97.5344
+ },
+ {
+   "Ciudad": "San Mateo Pinas",
+   "Latitud": 16.00172,
+   "Longitud": -96.33777
+ },
+ {
+   "Ciudad": "San Mateo Rio Hondo",
+   "Latitud": 16.1488,
+   "Longitud": -96.42899
+ },
+ {
+   "Ciudad": "San Mateo Sindihui",
+   "Latitud": 17.00294,
+   "Longitud": -97.3503
+ },
+ {
+   "Ciudad": "San Mateo Tlapiltepec",
+   "Latitud": 17.81161,
+   "Longitud": -97.43201
+ },
+ {
+   "Ciudad": "San Mateo Yoloxochitlan",
+   "Latitud": 18.13221,
+   "Longitud": -96.87403
+ },
+ {
+   "Ciudad": "San Melchor Betaza",
+   "Latitud": 17.25088,
+   "Longitud": -96.15311
+ },
+ {
+   "Ciudad": "San Miguel Achiutla",
+   "Latitud": 17.30655,
+   "Longitud": -97.4888
+ },
+ {
+   "Ciudad": "San Miguel Ahuehuetitlan",
+   "Latitud": 17.66889,
+   "Longitud": -98.31167
+ },
+ {
+   "Ciudad": "San Miguel Aloapam",
+   "Latitud": 17.43408,
+   "Longitud": -96.65814
+ },
+ {
+   "Ciudad": "San Miguel Amatitlan",
+   "Latitud": 17.91667,
+   "Longitud": -98.01667
+ },
+ {
+   "Ciudad": "San Miguel Amatlan",
+   "Latitud": 17.11962,
+   "Longitud": -96.45218
+ },
+ {
+   "Ciudad": "San Miguel Chicahua",
+   "Latitud": 17.63761,
+   "Longitud": -97.1937
+ },
+ {
+   "Ciudad": "San Miguel Chimalapa",
+   "Latitud": 16.7015,
+   "Longitud": -94.81523
+ },
+ {
+   "Ciudad": "San Miguel Coatlan",
+   "Latitud": 16.16667,
+   "Longitud": -96.66667
+ },
+ {
+   "Ciudad": "San Miguel Del Puerto",
+   "Latitud": 15.923,
+   "Longitud": -96.24424
+ },
+ {
+   "Ciudad": "San Miguel del Rio",
+   "Latitud": 17.30751,
+   "Longitud": -96.56183
+ },
+ {
+   "Ciudad": "San Miguel Ejutla",
+   "Latitud": 16.58118,
+   "Longitud": -96.73733
+ },
+ {
+   "Ciudad": "San Miguel El Grande",
+   "Latitud": 19.38184,
+   "Longitud": -99.2223
+ },
+ {
+   "Ciudad": "San Miguel Huautla",
+   "Latitud": 17.74145,
+   "Longitud": -97.14391
+ },
+ {
+   "Ciudad": "San Miguel Mixtepec",
+   "Latitud": 16.77705,
+   "Longitud": -96.95638
+ },
+ {
+   "Ciudad": "San Miguel Panixtlahuaca",
+   "Latitud": 16.26021,
+   "Longitud": -97.38317
+ },
+ {
+   "Ciudad": "San Miguel Peras",
+   "Latitud": 16.92325,
+   "Longitud": -96.99378
+ },
+ {
+   "Ciudad": "San Miguel Piedras",
+   "Latitud": 16.99748,
+   "Longitud": -97.23334
+ },
+ {
+   "Ciudad": "San Miguel Quetzaltepec",
+   "Latitud": 17.02098,
+   "Longitud": -95.83835
+ },
+ {
+   "Ciudad": "San Miguel Santa Flor",
+   "Latitud": 17.9228,
+   "Longitud": -96.79682
+ },
+ {
+   "Ciudad": "San Miguel Soyaltepec",
+   "Latitud": 18.24229,
+   "Longitud": -96.40357
+ },
+ {
+   "Ciudad": "San Miguel Suchixtepec",
+   "Latitud": 16.0932,
+   "Longitud": -96.46701
+ },
+ {
+   "Ciudad": "San Miguel Tecomatlan",
+   "Latitud": 17.39278,
+   "Longitud": -97.26722
+ },
+ {
+   "Ciudad": "San Miguel Tenango",
+   "Latitud": 16.26604,
+   "Longitud": -95.59655
+ },
+ {
+   "Ciudad": "San Miguel Tequixtepec",
+   "Latitud": 17.837,
+   "Longitud": -97.26054
+ },
+ {
+   "Ciudad": "San Miguel Tilquiapam",
+   "Latitud": 16.78097,
+   "Longitud": -96.58171
+ },
+ {
+   "Ciudad": "San Miguel Tlacamama",
+   "Latitud": 16.44528,
+   "Longitud": -98.08294
+ },
+ {
+   "Ciudad": "San Miguel Tlacotepec",
+   "Latitud": 17.45305,
+   "Longitud": -98.00535
+ },
+ {
+   "Ciudad": "San Miguel Tulancingo",
+   "Latitud": 17.75074,
+   "Longitud": -97.4416
+ },
+ {
+   "Ciudad": "San Miguel Yotao",
+   "Latitud": 17.37027,
+   "Longitud": -96.33721
+ },
+ {
+   "Ciudad": "San Nicolas",
+   "Latitud": 16.42173,
+   "Longitud": -96.74147
+ },
+ {
+   "Ciudad": "San Nicolas Hidalgo",
+   "Latitud": 17.78371,
+   "Longitud": -98.14602
+ },
+ {
+   "Ciudad": "San Pablo Coatlan",
+   "Latitud": 16.07814,
+   "Longitud": -96.85228
+ },
+ {
+   "Ciudad": "San Pablo Cuatro Venados",
+   "Latitud": 16.96723,
+   "Longitud": -96.90498
+ },
+ {
+   "Ciudad": "San Pablo Etla",
+   "Latitud": 17.32014,
+   "Longitud": -97.11802
+ },
+ {
+   "Ciudad": "San Pablo Huitzo",
+   "Latitud": 17.28168,
+   "Longitud": -96.88825
+ },
+ {
+   "Ciudad": "San Pablo Huixtepec",
+   "Latitud": 16.82065,
+   "Longitud": -96.78439
+ },
+ {
+   "Ciudad": "San Pablo Macuiltianguis",
+   "Latitud": 17.50422,
+   "Longitud": -96.55075
+ },
+ {
+   "Ciudad": "San Pablo Tijaltepec",
+   "Latitud": 17.01436,
+   "Longitud": -97.50099
+ },
+ {
+   "Ciudad": "San Pablo Villa de Mitla",
+   "Latitud": 17.03749,
+   "Longitud": -96.27083
+ },
+ {
+   "Ciudad": "San Pablo Yaganiza",
+   "Latitud": 17.14617,
+   "Longitud": -96.23172
+ },
+ {
+   "Ciudad": "San Pedro Amuzgos",
+   "Latitud": 16.65219,
+   "Longitud": -98.09036
+ },
+ {
+   "Ciudad": "San Pedro Apostol",
+   "Latitud": 16.73582,
+   "Longitud": -96.72685
+ },
+ {
+   "Ciudad": "San Pedro Atoyac",
+   "Latitud": 16.48873,
+   "Longitud": -97.98638
+ },
+ {
+   "Ciudad": "San Pedro Cajonos",
+   "Latitud": 17.16844,
+   "Longitud": -96.2631
+ },
+ {
+   "Ciudad": "San Pedro Comitancillo",
+   "Latitud": 16.49001,
+   "Longitud": -95.1583
+ },
+ {
+   "Ciudad": "San Pedro Coxcaltepec Cantaros",
+   "Latitud": 17.59252,
+   "Longitud": -97.08113
+ },
+ {
+   "Ciudad": "San Pedro El Alto",
+   "Latitud": 16.03628,
+   "Longitud": -96.4723
+ },
+ {
+   "Ciudad": "San Pedro Huamelula",
+   "Latitud": 15.99293,
+   "Longitud": -95.75297
+ },
+ {
+   "Ciudad": "San Pedro Huilotepec",
+   "Latitud": 16.24441,
+   "Longitud": -95.15123
+ },
+ {
+   "Ciudad": "San Pedro Ixcatlan",
+   "Latitud": 18.14438,
+   "Longitud": -96.51017
+ },
+ {
+   "Ciudad": "San Pedro Ixtlahuaca",
+   "Latitud": 17.06534,
+   "Longitud": -96.79793
+ },
+ {
+   "Ciudad": "San Pedro Jaltepetongo",
+   "Latitud": 17.68333,
+   "Longitud": -97.03333
+ },
+ {
+   "Ciudad": "San Pedro Jicayan",
+   "Latitud": 16.44985,
+   "Longitud": -98.01525
+ },
+ {
+   "Ciudad": "San Pedro Jocotipac",
+   "Latitud": 17.76975,
+   "Longitud": -97.07889
+ },
+ {
+   "Ciudad": "San Pedro Juchatengo",
+   "Latitud": 16.34429,
+   "Longitud": -97.08977
+ },
+ {
+   "Ciudad": "San Pedro Martir",
+   "Latitud": 16.74142,
+   "Longitud": -96.71259
+ },
+ {
+   "Ciudad": "San Pedro Martir Quiechapa",
+   "Latitud": 16.41489,
+   "Longitud": -96.24569
+ },
+ {
+   "Ciudad": "San Pedro Martir Yucuxaco",
+   "Latitud": 17.46264,
+   "Longitud": -97.67206
+ },
+ {
+   "Ciudad": "San Pedro Mixtepec Juquila",
+   "Latitud": 16,
+   "Longitud": -97.11667
+ },
+ {
+   "Ciudad": "San Pedro Mixtepec Miahuatlan",
+   "Latitud": 16.25133,
+   "Longitud": -96.28029
+ },
+ {
+   "Ciudad": "San Pedro Molinos",
+   "Latitud": 17.10149,
+   "Longitud": -97.54158
+ },
+ {
+   "Ciudad": "San Pedro Nopala",
+   "Latitud": 17.80294,
+   "Longitud": -97.54101
+ },
+ {
+   "Ciudad": "San Pedro Ocopetatillo",
+   "Latitud": 18.18602,
+   "Longitud": -96.91287
+ },
+ {
+   "Ciudad": "San Pedro Ocotepec",
+   "Latitud": 16.95197,
+   "Longitud": -95.84432
+ },
+ {
+   "Ciudad": "San Pedro Pochutla",
+   "Latitud": 15.66835,
+   "Longitud": -96.49016
+ },
+ {
+   "Ciudad": "San Pedro Quiatoni",
+   "Latitud": 16.78505,
+   "Longitud": -96.03108
+ },
+ {
+   "Ciudad": "San Pedro Sochiapam",
+   "Latitud": 17.98333,
+   "Longitud": -96.58333
+ },
+ {
+   "Ciudad": "San Pedro Tapanatepec",
+   "Latitud": 16.18889,
+   "Longitud": -94.09973
+ },
+ {
+   "Ciudad": "San Pedro Taviche",
+   "Latitud": 16.63799,
+   "Longitud": -96.53725
+ },
+ {
+   "Ciudad": "San Pedro Teozacoalco",
+   "Latitud": 17.01559,
+   "Longitud": -97.28662
+ },
+ {
+   "Ciudad": "San Pedro Teutila",
+   "Latitud": 18.0175,
+   "Longitud": -96.6163
+ },
+ {
+   "Ciudad": "San Pedro Tidaa",
+   "Latitud": 17.33333,
+   "Longitud": -97.38333
+ },
+ {
+   "Ciudad": "San Pedro Topiltepec",
+   "Latitud": 17.43627,
+   "Longitud": -97.33849
+ },
+ {
+   "Ciudad": "San Pedro Totolapa",
+   "Latitud": 16.66922,
+   "Longitud": -96.26827
+ },
+ {
+   "Ciudad": "San Pedro y San Pablo Ayutla",
+   "Latitud": 17.02648,
+   "Longitud": -96.07576
+ },
+ {
+   "Ciudad": "San Pedro y San Pablo Teposcolula",
+   "Latitud": 17.51417,
+   "Longitud": -97.61611
+ },
+ {
+   "Ciudad": "San Pedro y San Pablo Tequixtepec",
+   "Latitud": 18.0666,
+   "Longitud": -97.72345
+ },
+ {
+   "Ciudad": "San Pedro Yaneri",
+   "Latitud": 17.4187,
+   "Longitud": -96.3583
+ },
+ {
+   "Ciudad": "San Pedro Yolox",
+   "Latitud": 17.58848,
+   "Longitud": -96.55146
+ },
+ {
+   "Ciudad": "San Pedro Yucunama",
+   "Latitud": 17.56178,
+   "Longitud": -97.48358
+ },
+ {
+   "Ciudad": "San Raymundo Jalpan",
+   "Latitud": 16.97183,
+   "Longitud": -96.75605
+ },
+ {
+   "Ciudad": "San Sebastian Abasolo",
+   "Latitud": 16.99456,
+   "Longitud": -96.58755
+ },
+ {
+   "Ciudad": "San Sebastian Coatlan",
+   "Latitud": 16.06695,
+   "Longitud": -96.90849
+ },
+ {
+   "Ciudad": "San Sebastian Ixcapa",
+   "Latitud": 16.54482,
+   "Longitud": -98.14612
+ },
+ {
+   "Ciudad": "San Sebastian Nicananduta",
+   "Latitud": 17.51727,
+   "Longitud": -97.68509
+ },
+ {
+   "Ciudad": "San Sebastian Rio Hondo",
+   "Latitud": 16.18699,
+   "Longitud": -96.38811
+ },
+ {
+   "Ciudad": "San Sebastian Tecomaxtlahuaca",
+   "Latitud": 17.34666,
+   "Longitud": -98.03209
+ },
+ {
+   "Ciudad": "San Sebastian Teitipac",
+   "Latitud": 16.94984,
+   "Longitud": -96.61471
+ },
+ {
+   "Ciudad": "San Sebastian Tutla",
+   "Latitud": 17.04717,
+   "Longitud": -96.68693
+ },
+ {
+   "Ciudad": "San Simon Almolongas",
+   "Latitud": 16.41012,
+   "Longitud": -96.71712
+ },
+ {
+   "Ciudad": "San Simon Zahuatlan",
+   "Latitud": 17.82755,
+   "Longitud": -98.00427
+ },
+ {
+   "Ciudad": "San Vicente Coatlan",
+   "Latitud": 16.39825,
+   "Longitud": -96.83138
+ },
+ {
+   "Ciudad": "San Vicente Lachixio",
+   "Latitud": 16.63463,
+   "Longitud": -97.04035
+ },
+ {
+   "Ciudad": "San Vicente Nunu",
+   "Latitud": 17.46917,
+   "Longitud": -97.43837
+ },
+ {
+   "Ciudad": "Santa Ana",
+   "Latitud": 16.34018,
+   "Longitud": -96.71773
+ },
+ {
+   "Ciudad": "Santa Ana Ateixtlahuaca",
+   "Latitud": 18.21,
+   "Longitud": -96.90605
+ },
+ {
+   "Ciudad": "Santa Ana Cuauhtemoc",
+   "Latitud": 17.9852,
+   "Longitud": -96.79455
+ },
+ {
+   "Ciudad": "Santa Ana Del Valle",
+   "Latitud": 16.99286,
+   "Longitud": -96.47137
+ },
+ {
+   "Ciudad": "Santa Ana Tavela",
+   "Latitud": 16.65435,
+   "Longitud": -95.90951
+ },
+ {
+   "Ciudad": "Santa Ana Tlapacoyan",
+   "Latitud": 16.73736,
+   "Longitud": -96.85894
+ },
+ {
+   "Ciudad": "Santa Ana Yareni",
+   "Latitud": 17.39657,
+   "Longitud": -96.61206
+ },
+ {
+   "Ciudad": "Santa Ana Zegache",
+   "Latitud": 16.86076,
+   "Longitud": -96.7542
+ },
+ {
+   "Ciudad": "Santa Catalina Quieri",
+   "Latitud": 16.3201,
+   "Longitud": -96.26524
+ },
+ {
+   "Ciudad": "Santa Catarina Cuixtla",
+   "Latitud": 16.30487,
+   "Longitud": -96.64694
+ },
+ {
+   "Ciudad": "Santa Catarina Ixtepeji",
+   "Latitud": 17.23939,
+   "Longitud": -96.56157
+ },
+ {
+   "Ciudad": "Santa Catarina Juquila",
+   "Latitud": 16.23123,
+   "Longitud": -97.28088
+ },
+ {
+   "Ciudad": "Santa Catarina Lachatao",
+   "Latitud": 17.13194,
+   "Longitud": -94.97972
+ },
+ {
+   "Ciudad": "Santa Catarina Loxicha",
+   "Latitud": 16.07563,
+   "Longitud": -96.74827
+ },
+ {
+   "Ciudad": "Santa Catarina Mechoacan",
+   "Latitud": 16.33333,
+   "Longitud": -97.83333
+ },
+ {
+   "Ciudad": "Santa Catarina Minas",
+   "Latitud": 16.78098,
+   "Longitud": -96.61504
+ },
+ {
+   "Ciudad": "Santa Catarina Quiane",
+   "Latitud": 16.88334,
+   "Longitud": -96.74195
+ },
+ {
+   "Ciudad": "Santa Catarina Quioquitani",
+   "Latitud": 16.31546,
+   "Longitud": -96.28422
+ },
+ {
+   "Ciudad": "Santa Catarina Tayata",
+   "Latitud": 17.31391,
+   "Longitud": -97.55712
+ },
+ {
+   "Ciudad": "Santa Catarina Ticua",
+   "Latitud": 17.06667,
+   "Longitud": -97.55
+ },
+ {
+   "Ciudad": "Santa Catarina Yosonotu",
+   "Latitud": 17.02834,
+   "Longitud": -97.66362
+ },
+ {
+   "Ciudad": "Santa Catarina Zapoquila",
+   "Latitud": 18.02299,
+   "Longitud": -97.54994
+ },
+ {
+   "Ciudad": "Santa Cruz Acatepec",
+   "Latitud": 18.16332,
+   "Longitud": -96.8751
+ },
+ {
+   "Ciudad": "Santa Cruz Amilpas",
+   "Latitud": 17.05752,
+   "Longitud": -96.68175
+ },
+ {
+   "Ciudad": "Santa Cruz de Bravo",
+   "Latitud": 17.5812,
+   "Longitud": -98.2242
+ },
+ {
+   "Ciudad": "Santa Cruz Itundujia",
+   "Latitud": 16.87478,
+   "Longitud": -97.66076
+ },
+ {
+   "Ciudad": "Santa Cruz Mixtepec",
+   "Latitud": 16.79361,
+   "Longitud": -96.96
+ },
+ {
+   "Ciudad": "Santa Cruz Nundaco",
+   "Latitud": 17.17335,
+   "Longitud": -97.71444
+ },
+ {
+   "Ciudad": "Santa Cruz Papalutla",
+   "Latitud": 16.95885,
+   "Longitud": -96.58416
+ },
+ {
+   "Ciudad": "Santa Cruz Tacache de Mina",
+   "Latitud": 17.81667,
+   "Longitud": -98.13333
+ },
+ {
+   "Ciudad": "Santa Cruz Tacahua",
+   "Latitud": 16.93016,
+   "Longitud": -97.42459
+ },
+ {
+   "Ciudad": "Santa Cruz Tayata",
+   "Latitud": 16.4,
+   "Longitud": -95
+ },
+ {
+   "Ciudad": "Santa Cruz Xitla",
+   "Latitud": 16.36745,
+   "Longitud": -96.70497
+ },
+ {
+   "Ciudad": "Santa Cruz Xoxocotlan",
+   "Latitud": 17.04278,
+   "Longitud": -96.72319
+ },
+ {
+   "Ciudad": "Santa Cruz Zenzontepec",
+   "Latitud": 16.5308,
+   "Longitud": -97.44521
+ },
+ {
+   "Ciudad": "Santa Gertrudis",
+   "Latitud": 16.78508,
+   "Longitud": -96.8
+ },
+ {
+   "Ciudad": "Santa Ines de Zaragoza",
+   "Latitud": 15.99944,
+   "Longitud": -96.99944
+ },
+ {
+   "Ciudad": "Santa Ines del Monte",
+   "Latitud": 16.98333,
+   "Longitud": -96.71667
+ },
+ {
+   "Ciudad": "Santa Ines Yatzeche",
+   "Latitud": 16.80823,
+   "Longitud": -96.75617
+ },
+ {
+   "Ciudad": "Santa Lucia del Camino",
+   "Latitud": 17.06508,
+   "Longitud": -96.69338
+ },
+ {
+   "Ciudad": "Santa Lucia Miahuatlan",
+   "Latitud": 16.18728,
+   "Longitud": -96.61703
+ },
+ {
+   "Ciudad": "Santa Lucia Monteverde",
+   "Latitud": 16.86667,
+   "Longitud": -97.5
+ },
+ {
+   "Ciudad": "Santa Lucia Ocotlan",
+   "Latitud": 16.7255,
+   "Longitud": -96.66733
+ },
+ {
+   "Ciudad": "Santa Magdalena Jicotlan",
+   "Latitud": 17.81997,
+   "Longitud": -97.4373
+ },
+ {
+   "Ciudad": "Santa Maria Alotepec",
+   "Latitud": 17.02889,
+   "Longitud": -95.87833
+ },
+ {
+   "Ciudad": "Santa Maria Apazco",
+   "Latitud": 17.63284,
+   "Longitud": -97.10008
+ },
+ {
+   "Ciudad": "Santa Maria Atzompa",
+   "Latitud": 17.1019,
+   "Longitud": -96.77868
+ },
+ {
+   "Ciudad": "Santa Maria Camotlan",
+   "Latitud": 17.8874,
+   "Longitud": -97.6839
+ },
+ {
+   "Ciudad": "Santa Maria Chachoapam",
+   "Latitud": 17.61845,
+   "Longitud": -97.26145
+ },
+ {
+   "Ciudad": "Santa Maria Chilapa de Diaz",
+   "Latitud": 17.58762,
+   "Longitud": -97.63234
+ },
+ {
+   "Ciudad": "Santa Maria Chilchotla",
+   "Latitud": 18.31142,
+   "Longitud": -96.73893
+ },
+ {
+   "Ciudad": "Santa Maria Chimalapa",
+   "Latitud": 16.76726,
+   "Longitud": -94.76273
+ },
+ {
+   "Ciudad": "Santa Maria Colotepec",
+   "Latitud": 15.85461,
+   "Longitud": -97.04106
+ },
+ {
+   "Ciudad": "Santa Maria Cortijo",
+   "Latitud": 17.33472,
+   "Longitud": -97.12556
+ },
+ {
+   "Ciudad": "Santa Maria Coyotepec",
+   "Latitud": 16.97694,
+   "Longitud": -96.69917
+ },
+ {
+   "Ciudad": "Santa Maria del Rosario",
+   "Latitud": 17.3552,
+   "Longitud": -97.59572
+ },
+ {
+   "Ciudad": "Santa Maria del Tule",
+   "Latitud": 17.04662,
+   "Longitud": -96.63346
+ },
+ {
+   "Ciudad": "Santa Maria Ecatepec",
+   "Latitud": 16.40191,
+   "Longitud": -95.76814
+ },
+ {
+   "Ciudad": "Santa Maria Guelace",
+   "Latitud": 16.99222,
+   "Longitud": -96.60917
+ },
+ {
+   "Ciudad": "Santa Maria Guienagati",
+   "Latitud": 16.8316,
+   "Longitud": -95.28183
+ },
+ {
+   "Ciudad": "Santa Maria Huatulco",
+   "Latitud": 15.83086,
+   "Longitud": -96.3199
+ },
+ {
+   "Ciudad": "Santa Maria Huazolotitlan",
+   "Latitud": 16.22759,
+   "Longitud": -97.94254
+ },
+ {
+   "Ciudad": "Santa Maria Ipalapa",
+   "Latitud": 16.63853,
+   "Longitud": -97.9779
+ },
+ {
+   "Ciudad": "Santa Maria Ixcatlan",
+   "Latitud": 17.88411,
+   "Longitud": -97.09373
+ },
+ {
+   "Ciudad": "Santa Maria Jacatepec",
+   "Latitud": 17.86021,
+   "Longitud": -96.20992
+ },
+ {
+   "Ciudad": "Santa Maria Jalapa del Marques",
+   "Latitud": 16.43999,
+   "Longitud": -95.44498
+ },
+ {
+   "Ciudad": "Santa Maria Jaltianguis",
+   "Latitud": 17.35907,
+   "Longitud": -96.52609
+ },
+ {
+   "Ciudad": "Santa Maria la Asuncion",
+   "Latitud": 19.26198,
+   "Longitud": -99.00346
+ },
+ {
+   "Ciudad": "Santa Maria Lachixio",
+   "Latitud": 16.7277,
+   "Longitud": -97.02556
+ },
+ {
+   "Ciudad": "Santa Maria Mixtequilla",
+   "Latitud": 16.37442,
+   "Longitud": -95.25963
+ },
+ {
+   "Ciudad": "Santa Maria Nativitas",
+   "Latitud": 17.64224,
+   "Longitud": -97.30915
+ },
+ {
+   "Ciudad": "Santa Maria Nduayaco",
+   "Latitud": 16.66,
+   "Longitud": -96.10139
+ },
+ {
+   "Ciudad": "Santa Maria Ozolotepec",
+   "Latitud": 16.13066,
+   "Longitud": -96.36962
+ },
+ {
+   "Ciudad": "Santa Maria Papalo",
+   "Latitud": 17.85734,
+   "Longitud": -96.71203
+ },
+ {
+   "Ciudad": "Santa Maria Penoles",
+   "Latitud": 17.07921,
+   "Longitud": -97.00146
+ },
+ {
+   "Ciudad": "Santa Maria Petapa",
+   "Latitud": 17.31361,
+   "Longitud": -97.16583
+ },
+ {
+   "Ciudad": "Santa Maria Quiegolani",
+   "Latitud": 16.25956,
+   "Longitud": -96.03817
+ },
+ {
+   "Ciudad": "Santa Maria Sola",
+   "Latitud": 16.70762,
+   "Longitud": -96.85585
+ },
+ {
+   "Ciudad": "Santa Maria Tataltepec",
+   "Latitud": 17.14926,
+   "Longitud": -97.3962
+ },
+ {
+   "Ciudad": "Santa Maria Tecomavaca",
+   "Latitud": 17.95496,
+   "Longitud": -96.9918
+ },
+ {
+   "Ciudad": "Santa Maria Temaxcalapa",
+   "Latitud": 17.38003,
+   "Longitud": -96.16257
+ },
+ {
+   "Ciudad": "Santa Maria Temaxcaltepec",
+   "Latitud": 16.16115,
+   "Longitud": -97.19928
+ },
+ {
+   "Ciudad": "Santa Maria Teopoxco",
+   "Latitud": 18.16667,
+   "Longitud": -96.95
+ },
+ {
+   "Ciudad": "Santa Maria Tepantlali",
+   "Latitud": 16.99611,
+   "Longitud": -96.00911
+ },
+ {
+   "Ciudad": "Santa Maria Texcatitlan",
+   "Latitud": 17.7148,
+   "Longitud": -97.05097
+ },
+ {
+   "Ciudad": "Santa Maria Tlahuitoltepec",
+   "Latitud": 17.0977,
+   "Longitud": -96.06252
+ },
+ {
+   "Ciudad": "Santa Maria Tlalixtac",
+   "Latitud": 17.89594,
+   "Longitud": -96.75123
+ },
+ {
+   "Ciudad": "Santa Maria Tonameca",
+   "Latitud": 15.74671,
+   "Longitud": -96.54628
+ },
+ {
+   "Ciudad": "Santa Maria Totolapilla",
+   "Latitud": 16.57845,
+   "Longitud": -95.61819
+ },
+ {
+   "Ciudad": "Santa Maria Xadani",
+   "Latitud": 15.93333,
+   "Longitud": -96.06667
+ },
+ {
+   "Ciudad": "Santa Maria Yalina",
+   "Latitud": 17.21823,
+   "Longitud": -96.23966
+ },
+ {
+   "Ciudad": "Santa Maria Yavesia",
+   "Latitud": 17.23719,
+   "Longitud": -96.42936
+ },
+ {
+   "Ciudad": "Santa Maria Yolotepec",
+   "Latitud": 16.24881,
+   "Longitud": -97.18622
+ },
+ {
+   "Ciudad": "Santa Maria Yosoyua",
+   "Latitud": 17.11996,
+   "Longitud": -97.46789
+ },
+ {
+   "Ciudad": "Santa Maria Yucuhiti",
+   "Latitud": 17.01921,
+   "Longitud": -97.7704
+ },
+ {
+   "Ciudad": "Santa Maria Zacatepec",
+   "Latitud": 16.84616,
+   "Longitud": -97.98734
+ },
+ {
+   "Ciudad": "Santa Maria Zaniza",
+   "Latitud": 16.65,
+   "Longitud": -97.35
+ },
+ {
+   "Ciudad": "Santa Maria Zoquitlan",
+   "Latitud": 16.5411,
+   "Longitud": -96.39977
+ },
+ {
+   "Ciudad": "Santiago Amoltepec",
+   "Latitud": 16.64139,
+   "Longitud": -97.49598
+ },
+ {
+   "Ciudad": "Santiago Apoala",
+   "Latitud": 17.6508,
+   "Longitud": -97.13782
+ },
+ {
+   "Ciudad": "Santiago Apostol",
+   "Latitud": 16.80459,
+   "Longitud": -96.72266
+ },
+ {
+   "Ciudad": "Santiago Astata",
+   "Latitud": 15.98667,
+   "Longitud": -95.67389
+ },
+ {
+   "Ciudad": "Santiago Atitlan",
+   "Latitud": 17.03642,
+   "Longitud": -95.88047
+ },
+ {
+   "Ciudad": "Santiago Ayuquililla",
+   "Latitud": 17.95,
+   "Longitud": -97.96667
+ },
+ {
+   "Ciudad": "Santiago Cacaloxtepec",
+   "Latitud": 17.7253,
+   "Longitud": -97.74342
+ },
+ {
+   "Ciudad": "Santiago Camotlan",
+   "Latitud": 17.44498,
+   "Longitud": -96.18503
+ },
+ {
+   "Ciudad": "Santiago Chazumba",
+   "Latitud": 18.18848,
+   "Longitud": -97.67889
+ },
+ {
+   "Ciudad": "Santiago Choapam",
+   "Latitud": 17.35919,
+   "Longitud": -95.92291
+ },
+ {
+   "Ciudad": "Santiago Comaltepec",
+   "Latitud": 17.62838,
+   "Longitud": -96.36826
+ },
+ {
+   "Ciudad": "Santiago del Rio",
+   "Latitud": 17.41997,
+   "Longitud": -98.11151
+ },
+ {
+   "Ciudad": "Santiago Huajolotitlan",
+   "Latitud": 17.81322,
+   "Longitud": -97.6169
+ },
+ {
+   "Ciudad": "Santiago Huauclilla",
+   "Latitud": 17.44994,
+   "Longitud": -97.07146
+ },
+ {
+   "Ciudad": "Santiago Ihuitlan Plumas",
+   "Latitud": 17.84817,
+   "Longitud": -97.4289
+ },
+ {
+   "Ciudad": "Santiago Ixcuintepec",
+   "Latitud": 16.93444,
+   "Longitud": -95.62139
+ },
+ {
+   "Ciudad": "Santiago Ixtayutla",
+   "Latitud": 16.61698,
+   "Longitud": -97.79117
+ },
+ {
+   "Ciudad": "Santiago Jamiltepec",
+   "Latitud": 16.27945,
+   "Longitud": -97.81965
+ },
+ {
+   "Ciudad": "Santiago Jocotepec",
+   "Latitud": 17.67169,
+   "Longitud": -96.09046
+ },
+ {
+   "Ciudad": "Santiago Juxtlahuaca",
+   "Latitud": 18.11583,
+   "Longitud": -96.07778
+ },
+ {
+   "Ciudad": "Santiago Lachiguiri",
+   "Latitud": 16.68561,
+   "Longitud": -95.52729
+ },
+ {
+   "Ciudad": "Santiago Lalopa",
+   "Latitud": 17.4179,
+   "Longitud": -96.24873
+ },
+ {
+   "Ciudad": "Santiago Laollaga",
+   "Latitud": 16.69482,
+   "Longitud": -95.2906
+ },
+ {
+   "Ciudad": "Santiago Laxopa",
+   "Latitud": 17.23426,
+   "Longitud": -96.31269
+ },
+ {
+   "Ciudad": "Santiago Llano Grande",
+   "Latitud": 16.58893,
+   "Longitud": -98.90582
+ },
+ {
+   "Ciudad": "Santiago Matatlan",
+   "Latitud": 16.85999,
+   "Longitud": -96.38712
+ },
+ {
+   "Ciudad": "Santiago Miltepec",
+   "Latitud": 17.98333,
+   "Longitud": -97.68333
+ },
+ {
+   "Ciudad": "Santiago Minas",
+   "Latitud": 16.41869,
+   "Longitud": -97.22253
+ },
+ {
+   "Ciudad": "Santiago Nacaltepec",
+   "Latitud": 17.47728,
+   "Longitud": -96.937
+ },
+ {
+   "Ciudad": "Santiago Nejapilla",
+   "Latitud": 17.42069,
+   "Longitud": -97.37252
+ },
+ {
+   "Ciudad": "Santiago Niltepec",
+   "Latitud": 16.57171,
+   "Longitud": -94.70406
+ },
+ {
+   "Ciudad": "Santiago Nundiche",
+   "Latitud": 17.26444,
+   "Longitud": -97.67616
+ },
+ {
+   "Ciudad": "Santiago Nuyoo",
+   "Latitud": 17.07098,
+   "Longitud": -97.78867
+ },
+ {
+   "Ciudad": "Santiago Pinotepa Nacional",
+   "Latitud": 16.58893,
+   "Longitud": -98.90582
+ },
+ {
+   "Ciudad": "Santiago Suchilquitongo",
+   "Latitud": 17.21667,
+   "Longitud": -96.85
+ },
+ {
+   "Ciudad": "Santiago Tamazola",
+   "Latitud": 17.8125,
+   "Longitud": -98.20167
+ },
+ {
+   "Ciudad": "Santiago Tapextla",
+   "Latitud": 16.30381,
+   "Longitud": -98.44477
+ },
+ {
+   "Ciudad": "Santiago Tenango",
+   "Latitud": 17.29834,
+   "Longitud": -96.98137
+ },
+ {
+   "Ciudad": "Santiago Tepetlapa",
+   "Latitud": 17.78226,
+   "Longitud": -97.40142
+ },
+ {
+   "Ciudad": "Santiago Tetepec",
+   "Latitud": 16.34223,
+   "Longitud": -97.58821
+ },
+ {
+   "Ciudad": "Santiago Texcalcingo",
+   "Latitud": 18.20727,
+   "Longitud": -96.96829
+ },
+ {
+   "Ciudad": "Santiago Textitlan",
+   "Latitud": 16.74706,
+   "Longitud": -97.26408
+ },
+ {
+   "Ciudad": "Santiago Tilantongo",
+   "Latitud": 17.33472,
+   "Longitud": -97.12556
+ },
+ {
+   "Ciudad": "Santiago Tillo",
+   "Latitud": 17.46065,
+   "Longitud": -97.31806
+ },
+ {
+   "Ciudad": "Santiago Tlazoyaltepec",
+   "Latitud": 17.00861,
+   "Longitud": -96.96363
+ },
+ {
+   "Ciudad": "Santiago Xanica",
+   "Latitud": 16.00902,
+   "Longitud": -96.22517
+ },
+ {
+   "Ciudad": "Santiago Xiacui",
+   "Latitud": 17.29271,
+   "Longitud": -96.43483
+ },
+ {
+   "Ciudad": "Santiago Yaitepec",
+   "Latitud": 16.22555,
+   "Longitud": -97.26955
+ },
+ {
+   "Ciudad": "Santiago Yaveo",
+   "Latitud": 17.70947,
+   "Longitud": -95.28998
+ },
+ {
+   "Ciudad": "Santiago Yolomecatl",
+   "Latitud": 17.25528,
+   "Longitud": -95.71861
+ },
+ {
+   "Ciudad": "Santiago Yosondua",
+   "Latitud": 16.95527,
+   "Longitud": -97.5643
+ },
+ {
+   "Ciudad": "Santiago Yucuyachi",
+   "Latitud": 17.61507,
+   "Longitud": -98.23189
+ },
+ {
+   "Ciudad": "Santiago Zacatepec",
+   "Latitud": 18.21861,
+   "Longitud": -96.26417
+ },
+ {
+   "Ciudad": "Santiago Zoochila",
+   "Latitud": 17.2229,
+   "Longitud": -96.25353
+ },
+ {
+   "Ciudad": "Santo Domingo Albarradas",
+   "Latitud": 16.96279,
+   "Longitud": -96.18898
+ },
+ {
+   "Ciudad": "Santo Domingo Armenta",
+   "Latitud": 16.27203,
+   "Longitud": -98.35121
+ },
+ {
+   "Ciudad": "Santo Domingo Chihuitan",
+   "Latitud": 16.59203,
+   "Longitud": -95.16013
+ },
+ {
+   "Ciudad": "Santo Domingo de Morelos",
+   "Latitud": 15.83277,
+   "Longitud": -96.66709
+ },
+ {
+   "Ciudad": "Santo Domingo Ingenio",
+   "Latitud": 16.48743,
+   "Longitud": -94.7263
+ },
+ {
+   "Ciudad": "Santo Domingo Ixcatlan",
+   "Latitud": 16.91667,
+   "Longitud": -97.53333
+ },
+ {
+   "Ciudad": "Santo Domingo Nuxaa",
+   "Latitud": 17.16692,
+   "Longitud": -97.02673
+ },
+ {
+   "Ciudad": "Santo Domingo Ozolotepec",
+   "Latitud": 16.15011,
+   "Longitud": -96.30977
+ },
+ {
+   "Ciudad": "Santo Domingo Petapa",
+   "Latitud": 16.89527,
+   "Longitud": -95.23554
+ },
+ {
+   "Ciudad": "Santo Domingo Roayaga",
+   "Latitud": 17.33718,
+   "Longitud": -96.11429
+ },
+ {
+   "Ciudad": "Santo Domingo Tehuantepec",
+   "Latitud": 16.29384,
+   "Longitud": -95.41326
+ },
+ {
+   "Ciudad": "Santo Domingo Teojomulco",
+   "Latitud": 15.91667,
+   "Longitud": -95.78333
+ },
+ {
+   "Ciudad": "Santo Domingo Tepuxtepec",
+   "Latitud": 16.95468,
+   "Longitud": -96.0556
+ },
+ {
+   "Ciudad": "Santo Domingo Tlatayapam",
+   "Latitud": 17.40814,
+   "Longitud": -97.33966
+ },
+ {
+   "Ciudad": "Santo Domingo Tomaltepec",
+   "Latitud": 17.06038,
+   "Longitud": -96.62327
+ },
+ {
+   "Ciudad": "Santo Domingo Tonala",
+   "Latitud": 16.3,
+   "Longitud": -95.16667
+ },
+ {
+   "Ciudad": "Santo Domingo Tonaltepec",
+   "Latitud": 17.61152,
+   "Longitud": -97.35886
+ },
+ {
+   "Ciudad": "Santo Domingo Xagacia",
+   "Latitud": 17.15432,
+   "Longitud": -96.25864
+ },
+ {
+   "Ciudad": "Santo Domingo Yanhuitlan",
+   "Latitud": 17.52669,
+   "Longitud": -97.34276
+ },
+ {
+   "Ciudad": "Santo Domingo Yodohino",
+   "Latitud": 17.61673,
+   "Longitud": -97.68254
+ },
+ {
+   "Ciudad": "Santo Domingo Zanatepec",
+   "Latitud": 16.34122,
+   "Longitud": -94.36306
+ },
+ {
+   "Ciudad": "Santo Tomas Jalieza",
+   "Latitud": 16.92375,
+   "Longitud": -96.69854
+ },
+ {
+   "Ciudad": "Santo Tomas Mazaltepec",
+   "Latitud": 17.17385,
+   "Longitud": -96.87137
+ },
+ {
+   "Ciudad": "Santo Tomas Ocotepec",
+   "Latitud": 17.14421,
+   "Longitud": -97.76404
+ },
+ {
+   "Ciudad": "Santo Tomas Tamazulapan",
+   "Latitud": 16.26824,
+   "Longitud": -96.58306
+ },
+ {
+   "Ciudad": "Santos Reyes Nopala",
+   "Latitud": 16.11056,
+   "Longitud": -97.2049
+ },
+ {
+   "Ciudad": "Santos Reyes Papalo",
+   "Latitud": 17.80231,
+   "Longitud": -96.90184
+ },
+ {
+   "Ciudad": "Santos Reyes Tepejillo",
+   "Latitud": 17.4384,
+   "Longitud": -97.9379
+ },
+ {
+   "Ciudad": "Santos Reyes Yucuna",
+   "Latitud": 17.78055,
+   "Longitud": -98.01797
+ },
+ {
+   "Ciudad": "Silacayoapam",
+   "Latitud": 17.5749,
+   "Longitud": -98.09661
+ },
+ {
+   "Ciudad": "Sitio de Xitlapehua",
+   "Latitud": 16.35073,
+   "Longitud": -96.53286
+ },
+ {
+   "Ciudad": "Soledad Etla",
+   "Latitud": 17.16786,
+   "Longitud": -96.82573
+ },
+ {
+   "Ciudad": "Tamazulapam del Espiritu-Santo",
+   "Latitud": 17.05182,
+   "Longitud": -96.07456
+ },
+ {
+   "Ciudad": "Tanetzede Zaragoza",
+   "Latitud": 17.35719,
+   "Longitud": -96.29979
+ },
+ {
+   "Ciudad": "Taniche",
+   "Latitud": 16.56692,
+   "Longitud": -96.75368
+ },
+ {
+   "Ciudad": "Tataltepec de Valdes",
+   "Latitud": 16.30492,
+   "Longitud": -97.54669
+ },
+ {
+   "Ciudad": "Teococuilco de Marcos-Perez",
+   "Latitud": 17.31727,
+   "Longitud": -96.65054
+ },
+ {
+   "Ciudad": "Teotitlan de Flores Magon",
+   "Latitud": 18.09796,
+   "Longitud": -97.11517
+ },
+ {
+   "Ciudad": "Teotitlan del Valle",
+   "Latitud": 17.02821,
+   "Longitud": -96.49445
+ },
+ {
+   "Ciudad": "Teotongo",
+   "Latitud": 17.73362,
+   "Longitud": -97.53248
+ },
+ {
+   "Ciudad": "Tepelmeme Villa de Morelos",
+   "Latitud": 17.94585,
+   "Longitud": -97.34881
+ },
+ {
+   "Ciudad": "Tezoatlan de Segura y Luna",
+   "Latitud": 17.60984,
+   "Longitud": -97.79168
+ },
+ {
+   "Ciudad": "Tlacolula de Matamoros",
+   "Latitud": 16.89806,
+   "Longitud": -96.41417
+ },
+ {
+   "Ciudad": "Tlacotepec Plumas",
+   "Latitud": 17.8484,
+   "Longitud": -97.43386
+ },
+ {
+   "Ciudad": "Tlalixtac de Cabrera",
+   "Latitud": 17.07144,
+   "Longitud": -96.65044
+ },
+ {
+   "Ciudad": "Totontepec Villa de Morelos",
+   "Latitud": 17.30878,
+   "Longitud": -95.99419
+ },
+ {
+   "Ciudad": "Trinidad Zaachila",
+   "Latitud": 16.9336,
+   "Longitud": -96.78195
+ },
+ {
+   "Ciudad": "Union Hidalgo",
+   "Latitud": 16.475,
+   "Longitud": -94.82972
+ },
+ {
+   "Ciudad": "Valerio Trujano",
+   "Latitud": 17.75897,
+   "Longitud": -96.9617
+ },
+ {
+   "Ciudad": "Villa de Etla",
+   "Latitud": 17.20655,
+   "Longitud": -96.79812
+ },
+ {
+   "Ciudad": "Villa de Tamazulapam-del-Progreso",
+   "Latitud": 17.69295,
+   "Longitud": -97.6132
+ },
+ {
+   "Ciudad": "Villa de Tututepec-de-Melchor-Ocampo",
+   "Latitud": 16.11747,
+   "Longitud": -97.59748
+ },
+ {
+   "Ciudad": "Villa de Zaachila",
+   "Latitud": 16.93156,
+   "Longitud": -96.69802
+ },
+ {
+   "Ciudad": "Villa Diaz Ordaz",
+   "Latitud": 17.11652,
+   "Longitud": -96.39729
+ },
+ {
+   "Ciudad": "Villa Sola de Vega",
+   "Latitud": 15.90444,
+   "Longitud": -96.89972
+ },
+ {
+   "Ciudad": "Villa Talea de Castro",
+   "Latitud": 17.36667,
+   "Longitud": -96.25
+ },
+ {
+   "Ciudad": "Villa Tejupam de la Union",
+   "Latitud": 17.66334,
+   "Longitud": -97.46901
+ },
+ {
+   "Ciudad": "Yaxe",
+   "Latitud": 16.72357,
+   "Longitud": -96.47358
+ },
+ {
+   "Ciudad": "Yogana",
+   "Latitud": 17.17892,
+   "Longitud": -96.18478
+ },
+ {
+   "Ciudad": "Yutanduchi de Guerrero",
+   "Latitud": 17.04027,
+   "Longitud": -97.2996
+ },
+ {
+   "Ciudad": "Zapotitlan del Rio",
+   "Latitud": 16.87539,
+   "Longitud": -97.2372
+ },
+ {
+   "Ciudad": "Zapotitlan Lagunas",
+   "Latitud": 17.79925,
+   "Longitud": -98.33413
+ },
+ {
+   "Ciudad": "Zapotitlan Palmas",
+   "Latitud": 17.89716,
+   "Longitud": -97.82408
+ },
+ {
+   "Ciudad": "Zimatlan de Alvarez",
+   "Latitud": 16.70668,
+   "Longitud": -97.16397
+ },
+ {
+   "Ciudad": "Atoyatempan",
+   "Latitud": 18.82346,
+   "Longitud": -97.91601
+ },
+ {
+   "Ciudad": "Atzala",
+   "Latitud": 18.54468,
+   "Longitud": -98.55521
+ },
+ {
+   "Ciudad": "Atzitzihuacan",
+   "Latitud": 18.82375,
+   "Longitud": -98.58795
+ },
+ {
+   "Ciudad": "Atzitzintla",
+   "Latitud": 18.89786,
+   "Longitud": -97.3243
+ },
+ {
+   "Ciudad": "Axutla",
+   "Latitud": 18.1919,
+   "Longitud": -98.38805
+ },
+ {
+   "Ciudad": "Ayotoxco de Guerrero",
+   "Latitud": 20.09801,
+   "Longitud": -97.41117
+ },
+ {
+   "Ciudad": "Altepexi",
+   "Latitud": 18.36791,
+   "Longitud": -97.30253
+ },
+ {
+   "Ciudad": "Amixtlan",
+   "Latitud": 20.04838,
+   "Longitud": -97.7988
+ },
+ {
+   "Ciudad": "Amozoc",
+   "Latitud": 19.04318,
+   "Longitud": -98.04172
+ },
+ {
+   "Ciudad": "Aquixtla",
+   "Latitud": 19.7959,
+   "Longitud": -97.93266
+ },
+ {
+   "Ciudad": "Atempan",
+   "Latitud": 19.83766,
+   "Longitud": -97.45691
+ },
+ {
+   "Ciudad": "Calpan",
+   "Latitud": 19.1035,
+   "Longitud": -98.47573
+ },
+ {
+   "Ciudad": "Caltepec",
+   "Latitud": 18.22821,
+   "Longitud": -97.58039
+ },
+ {
+   "Ciudad": "Camocuautla",
+   "Latitud": 20.03962,
+   "Longitud": -97.75821
+ },
+ {
+   "Ciudad": "Canada Morelos",
+   "Latitud": 18.77064,
+   "Longitud": -97.35368
+ },
+ {
+   "Ciudad": "Caxhuacan",
+   "Latitud": 20.06397,
+   "Longitud": -97.60761
+ },
+ {
+   "Ciudad": "Chalchicomula de Sesma",
+   "Latitud": 19.04182,
+   "Longitud": -97.43747
+ },
+ {
+   "Ciudad": "Chapulco",
+   "Latitud": 18.62,
+   "Longitud": -97.41056
+ },
+ {
+   "Ciudad": "Chiautzingo",
+   "Latitud": 19.22891,
+   "Longitud": -98.48463
+ },
+ {
+   "Ciudad": "Chichiquila",
+   "Latitud": 19.19934,
+   "Longitud": -97.06847
+ },
+ {
+   "Ciudad": "Chiconcuautla",
+   "Latitud": 20.09447,
+   "Longitud": -97.93896
+ },
+ {
+   "Ciudad": "Chietla",
+   "Latitud": 18.48622,
+   "Longitud": -98.63595
+ },
+ {
+   "Ciudad": "Chigmecatitlan",
+   "Latitud": 18.64783,
+   "Longitud": -98.05272
+ },
+ {
+   "Ciudad": "Chignahuapan",
+   "Latitud": 19.88242,
+   "Longitud": -98.27315
+ },
+ {
+   "Ciudad": "Chignautla",
+   "Latitud": 19.81205,
+   "Longitud": -97.38786
+ },
+ {
+   "Ciudad": "Chila",
+   "Latitud": 19.02831,
+   "Longitud": -98.30748
+ },
+ {
+   "Ciudad": "Chila de La Sal",
+   "Latitud": 18.10817,
+   "Longitud": -98.48292
+ },
+ {
+   "Ciudad": "Chilchotla",
+   "Latitud": 19.27909,
+   "Longitud": -97.23444
+ },
+ {
+   "Ciudad": "Chinantla",
+   "Latitud": 18.24895,
+   "Longitud": -98.31475
+ },
+ {
+   "Ciudad": "Coatepec",
+   "Latitud": 20.0596,
+   "Longitud": -97.73258
+ },
+ {
+   "Ciudad": "Coatzingo",
+   "Latitud": 18.61466,
+   "Longitud": -98.17292
+ },
+ {
+   "Ciudad": "Cohetzala",
+   "Latitud": 18.29518,
+   "Longitud": -98.7312
+ },
+ {
+   "Ciudad": "Cohuecan",
+   "Latitud": 18.8,
+   "Longitud": -98.71667
+ },
+ {
+   "Ciudad": "Coronango",
+   "Latitud": 19.13136,
+   "Longitud": -98.2979
+ },
+ {
+   "Ciudad": "Coxcatlan",
+   "Latitud": 19.83333,
+   "Longitud": -97.75
+ },
+ {
+   "Ciudad": "Coyomeapan",
+   "Latitud": 18.27833,
+   "Longitud": -96.992
+ },
+ {
+   "Ciudad": "Cuapiaxtla de Madero",
+   "Latitud": 18.91483,
+   "Longitud": -97.82345
+ },
+ {
+   "Ciudad": "Cuautempan",
+   "Latitud": 19.90974,
+   "Longitud": -97.79601
+ },
+ {
+   "Ciudad": "Cuautinchan",
+   "Latitud": 18.95805,
+   "Longitud": -97.96209
+ },
+ {
+   "Ciudad": "Cuautlancingo",
+   "Latitud": 19.0981,
+   "Longitud": -98.25363
+ },
+ {
+   "Ciudad": "Cuayuca de Andrade",
+   "Latitud": 18.46667,
+   "Longitud": -98.18333
+ },
+ {
+   "Ciudad": "Cuetzalan Del Progreso",
+   "Latitud": 20.02966,
+   "Longitud": -97.54134
+ },
+ {
+   "Ciudad": "Cuyoaco",
+   "Latitud": 19.54126,
+   "Longitud": -97.59568
+ },
+ {
+   "Ciudad": "Domingo Arenas",
+   "Latitud": 19.13955,
+   "Longitud": -98.45954
+ },
+ {
+   "Ciudad": "Epatlan",
+   "Latitud": 19.65833,
+   "Longitud": -97.65694
+ },
+ {
+   "Ciudad": "Esperanza",
+   "Latitud": 18.85412,
+   "Longitud": -97.33329
+ },
+ {
+   "Ciudad": "Francisco Z Mena",
+   "Latitud": 20.75,
+   "Longitud": -97.75
+ },
+ {
+   "Ciudad": "General Felipe angeles",
+   "Latitud": 19.04367,
+   "Longitud": -97.70102
+ },
+ {
+   "Ciudad": "Hermenegildo Galeana",
+   "Latitud": 20.12188,
+   "Longitud": -97.74443
+ },
+ {
+   "Ciudad": "Honey",
+   "Latitud": 20.52847,
+   "Longitud": -97.8516
+ },
+ {
+   "Ciudad": "Huaquechula",
+   "Latitud": 18.78619,
+   "Longitud": -98.48941
+ },
+ {
+   "Ciudad": "Huatlatlauca",
+   "Latitud": 18.71779,
+   "Longitud": -98.01249
+ },
+ {
+   "Ciudad": "Huauchinango",
+   "Latitud": 20.13801,
+   "Longitud": -98.00635
+ },
+ {
+   "Ciudad": "Huehuetlan el Chico",
+   "Latitud": 18.27102,
+   "Longitud": -98.76173
+ },
+ {
+   "Ciudad": "Huehuetlan el Grande",
+   "Latitud": 18.79903,
+   "Longitud": -98.16972
+ },
+ {
+   "Ciudad": "Huejotzingo",
+   "Latitud": 19.15832,
+   "Longitud": -98.4187
+ },
+ {
+   "Ciudad": "Hueyapan",
+   "Latitud": 19.88396,
+   "Longitud": -97.44555
+ },
+ {
+   "Ciudad": "Hueytamalco",
+   "Latitud": 19.93951,
+   "Longitud": -97.28788
+ },
+ {
+   "Ciudad": "Hueytlalpan",
+   "Latitud": 20.0262,
+   "Longitud": -97.69818
+ },
+ {
+   "Ciudad": "Huitzilan de Serdan",
+   "Latitud": 19.96667,
+   "Longitud": -97.68333
+ },
+ {
+   "Ciudad": "Huitziltepec",
+   "Latitud": 18.75623,
+   "Longitud": -97.86386
+ },
+ {
+   "Ciudad": "Ixcamilpa de Guerrero",
+   "Latitud": 18.01946,
+   "Longitud": -98.70427
+ },
+ {
+   "Ciudad": "Ixcaquixtla",
+   "Latitud": 18.50747,
+   "Longitud": -97.87381
+ },
+ {
+   "Ciudad": "Ixtacamaxtitlan",
+   "Latitud": 19.46667,
+   "Longitud": -97.7
+ },
+ {
+   "Ciudad": "Ixtepec",
+   "Latitud": 20.02436,
+   "Longitud": -97.64559
+ },
+ {
+   "Ciudad": "Izucar de Matamoros",
+   "Latitud": 18.57437,
+   "Longitud": -98.40362
+ },
+ {
+   "Ciudad": "Jalpan",
+   "Latitud": 20.46667,
+   "Longitud": -97.98333
+ },
+ {
+   "Ciudad": "Jolalpan",
+   "Latitud": 18.33618,
+   "Longitud": -98.95854
+ },
+ {
+   "Ciudad": "Jonotla",
+   "Latitud": 20.05346,
+   "Longitud": -97.55621
+ },
+ {
+   "Ciudad": "Jopala",
+   "Latitud": 20.13377,
+   "Longitud": -97.72671
+ },
+ {
+   "Ciudad": "Juan C Bonilla",
+   "Latitud": 19.04528,
+   "Longitud": -98.1975
+ },
+ {
+   "Ciudad": "Juan Galindo",
+   "Latitud": 20.18333,
+   "Longitud": -97.95
+ },
+ {
+   "Ciudad": "Juan N Mendez",
+   "Latitud": 18.48095,
+   "Longitud": -97.76313
+ },
+ {
+   "Ciudad": "La Magdalena Tlatlauquitepec",
+   "Latitud": 18.75914,
+   "Longitud": -98.10065
+ },
+ {
+   "Ciudad": "Lafragua",
+   "Latitud": 19.2969,
+   "Longitud": -97.27191
+ },
+ {
+   "Ciudad": "Libres",
+   "Latitud": 19.44375,
+   "Longitud": -97.67793
+ },
+ {
+   "Ciudad": "Los Reyes de Juarez",
+   "Latitud": 19.01014,
+   "Longitud": -97.85874
+ },
+ {
+   "Ciudad": "Mazapiltepec de Juarez",
+   "Latitud": 19.12211,
+   "Longitud": -97.69285
+ },
+ {
+   "Ciudad": "Mixtla",
+   "Latitud": 18.90314,
+   "Longitud": -97.89443
+ },
+ {
+   "Ciudad": "Molcaxac",
+   "Latitud": 18.76667,
+   "Longitud": -97.86667
+ },
+ {
+   "Ciudad": "Naupan",
+   "Latitud": 20.20216,
+   "Longitud": -98.13367
+ },
+ {
+   "Ciudad": "Nauzontla",
+   "Latitud": 19.96079,
+   "Longitud": -97.60373
+ },
+ {
+   "Ciudad": "Nealtican",
+   "Latitud": 19.06424,
+   "Longitud": -98.42518
+ },
+ {
+   "Ciudad": "Nicolas Bravo",
+   "Latitud": 18.63952,
+   "Longitud": -97.39649
+ },
+ {
+   "Ciudad": "Nopalucan",
+   "Latitud": 19.1535,
+   "Longitud": -97.7653
+ },
+ {
+   "Ciudad": "Ocoyucan",
+   "Latitud": 18.97382,
+   "Longitud": -98.33826
+ },
+ {
+   "Ciudad": "Olintla",
+   "Latitud": 20.1,
+   "Longitud": -97.71667
+ },
+ {
+   "Ciudad": "Oriental",
+   "Latitud": 19.34416,
+   "Longitud": -97.53649
+ },
+ {
+   "Ciudad": "Pahuatlan",
+   "Latitud": 20.30908,
+   "Longitud": -98.09433
+ },
+ {
+   "Ciudad": "Palmar de Bravo",
+   "Latitud": 18.83355,
+   "Longitud": -97.56013
+ },
+ {
+   "Ciudad": "Petlalcingo",
+   "Latitud": 18.05917,
+   "Longitud": -97.87093
+ },
+ {
+   "Ciudad": "Piaxtla",
+   "Latitud": 19.85,
+   "Longitud": -97.43333
+ },
+ {
+   "Ciudad": "Puebla",
+   "Latitud": 18.95652,
+   "Longitud": -98.18664
+ },
+ {
+   "Ciudad": "Quecholac",
+   "Latitud": 18.95678,
+   "Longitud": -97.65776
+ },
+ {
+   "Ciudad": "Quimixtlan",
+   "Latitud": 19.25378,
+   "Longitud": -97.13693
+ },
+ {
+   "Ciudad": "Rafael Lara Grajales",
+   "Latitud": 19.23532,
+   "Longitud": -97.80795
+ },
+ {
+   "Ciudad": "San Andres Cholula",
+   "Latitud": 19.04802,
+   "Longitud": -98.29617
+ },
+ {
+   "Ciudad": "San Antonio Canada",
+   "Latitud": 18.4988,
+   "Longitud": -97.28813
+ },
+ {
+   "Ciudad": "San Diego la Mesa Tochimiltzingo",
+   "Latitud": 18.65,
+   "Longitud": -97.76667
+ },
+ {
+   "Ciudad": "San Felipe Teotlalcingo",
+   "Latitud": 19.23664,
+   "Longitud": -98.50142
+ },
+ {
+   "Ciudad": "San Felipe Tepatlan",
+   "Latitud": 20.08783,
+   "Longitud": -97.80153
+ },
+ {
+   "Ciudad": "San Gabriel Chilac",
+   "Latitud": 18.3259,
+   "Longitud": -97.34718
+ },
+ {
+   "Ciudad": "San Gregorio Atzompa",
+   "Latitud": 19.00347,
+   "Longitud": -98.33803
+ },
+ {
+   "Ciudad": "San Jeronimo Tecuanipan",
+   "Latitud": 19.06173,
+   "Longitud": -98.38636
+ },
+ {
+   "Ciudad": "San Jeronimo Xayacatlan",
+   "Latitud": 18.16891,
+   "Longitud": -97.95501
+ },
+ {
+   "Ciudad": "San Jose Chiapa",
+   "Latitud": 19.26667,
+   "Longitud": -97.7
+ },
+ {
+   "Ciudad": "San Jose Miahuatlan",
+   "Latitud": 18.29021,
+   "Longitud": -97.28939
+ },
+ {
+   "Ciudad": "San-Juan-Atenco",
+   "Latitud": 19.0564,
+   "Longitud": -97.56135
+ },
+ {
+   "Ciudad": "San-Juan-Atzompa",
+   "Latitud": 18.74694,
+   "Longitud": -98.02333
+ },
+ {
+   "Ciudad": "San-Martin-Texmelucan",
+   "Latitud": 19.28222,
+   "Longitud": -98.45169
+ },
+ {
+   "Ciudad": "San-Martin-Totoltepec",
+   "Latitud": 18.66667,
+   "Longitud": -98.35
+ },
+ {
+   "Ciudad": "San-Matias-Tlalancaleca",
+   "Latitud": 19.37021,
+   "Longitud": -98.51838
+ },
+ {
+   "Ciudad": "San-Miguel-Ixitlan",
+   "Latitud": 18,
+   "Longitud": -97.76667
+ },
+ {
+   "Ciudad": "San-Miguel-Xoxtla",
+   "Latitud": 19.16934,
+   "Longitud": -98.30611
+ },
+ {
+   "Ciudad": "San-Nicolas-Buenos-Aires",
+   "Latitud": 19.30839,
+   "Longitud": -97.50901
+ },
+ {
+   "Ciudad": "San-Nicolas-de-los-Ranchos",
+   "Latitud": 19.07763,
+   "Longitud": -98.48215
+ },
+ {
+   "Ciudad": "San-Pablo-Amicano",
+   "Latitud": 18.15,
+   "Longitud": -98.16667
+ },
+ {
+   "Ciudad": "San-Pedro-Cholula",
+   "Latitud": 19.09833,
+   "Longitud": -98.31655
+ },
+ {
+   "Ciudad": "San-Pedro-Yeloixtlahuaca",
+   "Latitud": 18.06526,
+   "Longitud": -98.08787
+ },
+ {
+   "Ciudad": "San-Salvador-El-Seco",
+   "Latitud": 19.10604,
+   "Longitud": -97.59177
+ },
+ {
+   "Ciudad": "San-Salvador-El-Verde",
+   "Latitud": 19.25,
+   "Longitud": -98.53333
+ },
+ {
+   "Ciudad": "San-Salvador-Huixcolotla",
+   "Latitud": 18.916,
+   "Longitud": -97.7728
+ },
+ {
+   "Ciudad": "San-Sebastian-Tlacotepec",
+   "Latitud": 18.33333,
+   "Longitud": -97.25
+ },
+ {
+   "Ciudad": "Santa-Catarina-Tlaltempan",
+   "Latitud": 18.61581,
+   "Longitud": -98.07949
+ },
+ {
+   "Ciudad": "Santa-Ines-Ahuatempan",
+   "Latitud": 19.05,
+   "Longitud": -98.25
+ },
+ {
+   "Ciudad": "Santa-Isabel-Cholula",
+   "Latitud": 18.9925,
+   "Longitud": -98.37788
+ },
+ {
+   "Ciudad": "Santiago-Miahuatlan",
+   "Latitud": 18.54728,
+   "Longitud": -97.43939
+ },
+ {
+   "Ciudad": "Santo-Tomas-Hueyotlipan",
+   "Latitud": 18.88211,
+   "Longitud": -97.84708
+ },
+ {
+   "Ciudad": "Soltepec",
+   "Latitud": 19.12569,
+   "Longitud": -97.71406
+ },
+ {
+   "Ciudad": "Tecali-de-Herrera",
+   "Latitud": 18.8799,
+   "Longitud": -97.95747
+ },
+ {
+   "Ciudad": "Tecamachalco",
+   "Latitud": 18.84435,
+   "Longitud": -97.76372
+ },
+ {
+   "Ciudad": "Tecomatlan",
+   "Latitud": 18.06016,
+   "Longitud": -98.30406
+ },
+ {
+   "Ciudad": "Tehuacan",
+   "Latitud": 19.05412,
+   "Longitud": -98.2234
+ },
+ {
+   "Ciudad": "Tehuitzingo",
+   "Latitud": 18.3316,
+   "Longitud": -98.27415
+ },
+ {
+   "Ciudad": "Tenampulco",
+   "Latitud": 20.17035,
+   "Longitud": -97.40547
+ },
+ {
+   "Ciudad": "Teopantlan",
+   "Latitud": 18.83966,
+   "Longitud": -98.29948
+ },
+ {
+   "Ciudad": "Teotlalco",
+   "Latitud": 18.46905,
+   "Longitud": -98.77836
+ },
+ {
+   "Ciudad": "Tepanco-de-Lopez",
+   "Latitud": 18.49136,
+   "Longitud": -97.46272
+ },
+ {
+   "Ciudad": "Tepango-de-Rodriguez",
+   "Latitud": 20.00478,
+   "Longitud": -97.79737
+ },
+ {
+   "Ciudad": "Tepatlaxco-de-Hidalgo",
+   "Latitud": 19.07949,
+   "Longitud": -97.97127
+ },
+ {
+   "Ciudad": "Tepeaca",
+   "Latitud": 19.0261,
+   "Longitud": -97.90242
+ },
+ {
+   "Ciudad": "Tepemaxalco",
+   "Latitud": 18.73719,
+   "Longitud": -98.6293
+ },
+ {
+   "Ciudad": "Tepeojuma",
+   "Latitud": 18.71539,
+   "Longitud": -98.38688
+ },
+ {
+   "Ciudad": "Tepetzintla",
+   "Latitud": 19.96694,
+   "Longitud": -97.84157
+ },
+ {
+   "Ciudad": "Tepexco",
+   "Latitud": 18.63706,
+   "Longitud": -98.63312
+ },
+ {
+   "Ciudad": "Tepexi-de-Rodriguez",
+   "Latitud": 18.58664,
+   "Longitud": -97.88992
+ },
+ {
+   "Ciudad": "Tepeyahualco",
+   "Latitud": 19.39899,
+   "Longitud": -97.39907
+ },
+ {
+   "Ciudad": "Tepeyahualco-de-Cuauhtemoc",
+   "Latitud": 18.81427,
+   "Longitud": -97.87773
+ },
+ {
+   "Ciudad": "Tetela-de-Ocampo",
+   "Latitud": 19.83333,
+   "Longitud": -97.75
+ },
+ {
+   "Ciudad": "Teteles-de-Avila-Castillo",
+   "Latitud": 18.075,
+   "Longitud": -98.67361
+ },
+ {
+   "Ciudad": "Teziutlan",
+   "Latitud": 19.84188,
+   "Longitud": -97.35692
+ },
+ {
+   "Ciudad": "Tianguismanalco",
+   "Latitud": 19.13333,
+   "Longitud": -98.46667
+ },
+ {
+   "Ciudad": "Tilapa",
+   "Latitud": 18.62104,
+   "Longitud": -98.51413
+ },
+ {
+   "Ciudad": "Tlachichuca",
+   "Latitud": 19.12353,
+   "Longitud": -97.41118
+ },
+ {
+   "Ciudad": "Tlacotepec-de-Benito-Juarez",
+   "Latitud": 18.66978,
+   "Longitud": -97.67256
+ },
+ {
+   "Ciudad": "Tlacuilotepec",
+   "Latitud": 20.31949,
+   "Longitud": -98.03082
+ },
+ {
+   "Ciudad": "Tlahuapan",
+   "Latitud": 19.22197,
+   "Longitud": -98.42213
+ },
+ {
+   "Ciudad": "Tlaltenango",
+   "Latitud": 19.17055,
+   "Longitud": -98.34512
+ },
+ {
+   "Ciudad": "Tlanepantla",
+   "Latitud": 18.86317,
+   "Longitud": -97.88739
+ },
+ {
+   "Ciudad": "Tlaola",
+   "Latitud": 20.14301,
+   "Longitud": -97.94537
+ },
+ {
+   "Ciudad": "Tlapacoya",
+   "Latitud": 20.02253,
+   "Longitud": -97.91225
+ },
+ {
+   "Ciudad": "Tlapanala",
+   "Latitud": 18.71865,
+   "Longitud": -98.57461
+ },
+ {
+   "Ciudad": "Tlatlauquitepec",
+   "Latitud": 19.84933,
+   "Longitud": -97.49597
+ },
+ {
+   "Ciudad": "Tlaxco",
+   "Latitud": 20.43333,
+   "Longitud": -98.05
+ },
+ {
+   "Ciudad": "Tochimilco",
+   "Latitud": 18.87542,
+   "Longitud": -98.70751
+ },
+ {
+   "Ciudad": "Tochtepec",
+   "Latitud": 18.83955,
+   "Longitud": -97.82426
+ },
+ {
+   "Ciudad": "Totoltepec-de-Guerrero",
+   "Latitud": 18.29309,
+   "Longitud": -97.81252
+ },
+ {
+   "Ciudad": "Tulcingo",
+   "Latitud": 18.04834,
+   "Longitud": -98.37533
+ },
+ {
+   "Ciudad": "Tuzamapan-de-Galeana",
+   "Latitud": 20.06458,
+   "Longitud": -97.57509
+ },
+ {
+   "Ciudad": "Tzicatlacoyan",
+   "Latitud": 18.84194,
+   "Longitud": -98.06117
+ },
+ {
+   "Ciudad": "Xayacatlan-de-Bravo",
+   "Latitud": 18.25,
+   "Longitud": -97.96667
+ },
+ {
+   "Ciudad": "Xicotepec",
+   "Latitud": 20.38526,
+   "Longitud": -97.88021
+ },
+ {
+   "Ciudad": "Xicotlan",
+   "Latitud": 18.0731,
+   "Longitud": -98.66931
+ },
+ {
+   "Ciudad": "Xiutetelco",
+   "Latitud": 19.78189,
+   "Longitud": -97.32748
+ },
+ {
+   "Ciudad": "Xochiapulco",
+   "Latitud": 19.82115,
+   "Longitud": -97.65898
+ },
+ {
+   "Ciudad": "Xochiltepec",
+   "Latitud": 18.64994,
+   "Longitud": -98.34387
+ },
+ {
+   "Ciudad": "Xochitlan-de-Vicente-Suarez",
+   "Latitud": 19.04919,
+   "Longitud": -98.15646
+ },
+ {
+   "Ciudad": "Xochitlan-Todos-Santos",
+   "Latitud": 18.72206,
+   "Longitud": -97.83528
+ },
+ {
+   "Ciudad": "Yaonahuac",
+   "Latitud": 19.88047,
+   "Longitud": -97.46485
+ },
+ {
+   "Ciudad": "Yehualtepec",
+   "Latitud": 18.79027,
+   "Longitud": -97.67185
+ },
+ {
+   "Ciudad": "Zacapala",
+   "Latitud": 18.63822,
+   "Longitud": -97.95565
+ },
+ {
+   "Ciudad": "Zacapoaxtla",
+   "Latitud": 19.88363,
+   "Longitud": -97.54381
+ },
+ {
+   "Ciudad": "Zacatlan",
+   "Latitud": 20.00846,
+   "Longitud": -98.11709
+ },
+ {
+   "Ciudad": "Zapotitlan",
+   "Latitud": 18.3311,
+   "Longitud": -97.46938
+ },
+ {
+   "Ciudad": "Zapotitlan-de-Mendez",
+   "Latitud": 20.00391,
+   "Longitud": -97.67575
+ },
+ {
+   "Ciudad": "Zautla",
+   "Latitud": 19.71519,
+   "Longitud": -97.66978
+ },
+ {
+   "Ciudad": "Zihuateutla",
+   "Latitud": 20.25,
+   "Longitud": -97.85833
+ },
+ {
+   "Ciudad": "Zinacatepec",
+   "Latitud": 18.33367,
+   "Longitud": -97.24423
+ },
+ {
+   "Ciudad": "Zongozotla",
+   "Latitud": 19.97951,
+   "Longitud": -97.72768
+ },
+ {
+   "Ciudad": "Zoquiapan",
+   "Latitud": 20.00991,
+   "Longitud": -97.59591
+ },
+ {
+   "Ciudad": "Zoquitlan",
+   "Latitud": 18.37239,
+   "Longitud": -97.03593
+ },
+ {
+   "Ciudad": "Acapulco de Juarez",
+   "Latitud": 17.01056,
+   "Longitud": -99.66226
+ },
+ {
+   "Ciudad": "Acatepec",
+   "Latitud": 17.01635,
+   "Longitud": -98.91972
+ },
+ {
+   "Ciudad": "Ahuacuotzingo",
+   "Latitud": 17.71373,
+   "Longitud": -98.93586
+ },
+ {
+   "Ciudad": "Ajuchitlan del Progreso",
+   "Latitud": 18.15417,
+   "Longitud": -100.5
+ },
+ {
+   "Ciudad": "Alcozauca de Guerrero",
+   "Latitud": 17.46089,
+   "Longitud": -98.3852
+ },
+ {
+   "Ciudad": "Alpoyeca",
+   "Latitud": 17.67154,
+   "Longitud": -98.50987
+ },
+ {
+   "Ciudad": "Apaxtla",
+   "Latitud": 18.13289,
+   "Longitud": -99.93443
+ },
+ {
+   "Ciudad": "Arcelia",
+   "Latitud": 18.14032,
+   "Longitud": -100.16382
+ },
+ {
+   "Ciudad": "Atenango del Rio",
+   "Latitud": 18.15776,
+   "Longitud": -99.14148
+ },
+ {
+   "Ciudad": "Atlamajalcingo Del Monte",
+   "Latitud": 17.31167,
+   "Longitud": -98.60559
+ },
+ {
+   "Ciudad": "Atlixtac",
+   "Latitud": 17.53107,
+   "Longitud": -99.03633
+ },
+ {
+   "Ciudad": "Atoyac de Alvarez",
+   "Latitud": 17.29241,
+   "Longitud": -100.40149
+ },
+ {
+   "Ciudad": "Ayutla de los Libres",
+   "Latitud": 17.08986,
+   "Longitud": -99.11847
+ },
+ {
+   "Ciudad": "Azoyu",
+   "Latitud": 16.62329,
+   "Longitud": -98.70367
+ },
+ {
+   "Ciudad": "Buenavista de Cuellar",
+   "Latitud": 18.45889,
+   "Longitud": -99.41275
+ },
+ {
+   "Ciudad": "Chilapa de Alvarez",
+   "Latitud": 17.49904,
+   "Longitud": -99.18217
+ },
+ {
+   "Ciudad": "Chilpancingo de los Bravo",
+   "Latitud": 17.36164,
+   "Longitud": -99.46573
+ },
+ {
+   "Ciudad": "Coahuayutla de Jose Maria Izazaga",
+   "Latitud": 18.31667,
+   "Longitud": -101.81667
+ },
+ {
+   "Ciudad": "Cocula",
+   "Latitud": 18.12805,
+   "Longitud": -99.76189
+ },
+ {
+   "Ciudad": "Copala",
+   "Latitud": 16.60465,
+   "Longitud": -98.97579
+ },
+ {
+   "Ciudad": "Copalillo",
+   "Latitud": 18.03443,
+   "Longitud": -99.04062
+ },
+ {
+   "Ciudad": "Copanatoyac",
+   "Latitud": 17.52643,
+   "Longitud": -98.76571
+ },
+ {
+   "Ciudad": "Coyuca de Benitez",
+   "Latitud": 17.05021,
+   "Longitud": -99.94272
+ },
+ {
+   "Ciudad": "Coyuca de Catalan",
+   "Latitud": 18.32656,
+   "Longitud": -100.70236
+ },
+ {
+   "Ciudad": "Cuajinicuilapa",
+   "Latitud": 16.46951,
+   "Longitud": -98.41398
+ },
+ {
+   "Ciudad": "Cualac",
+   "Latitud": 17.75,
+   "Longitud": -98.66667
+ },
+ {
+   "Ciudad": "Cuautepec",
+   "Latitud": 16.71155,
+   "Longitud": -98.85898
+ },
+ {
+   "Ciudad": "Cuetzala Del Progreso",
+   "Latitud": 18.14626,
+   "Longitud": -99.78159
+ },
+ {
+   "Ciudad": "Cutzamala de Pinzon",
+   "Latitud": 18.66896,
+   "Longitud": -100.56707
+ },
+ {
+   "Ciudad": "Eduardo Neri",
+   "Latitud": 18.02516,
+   "Longitud": -99.47536
+ },
+ {
+   "Ciudad": "Florencio Villarreal",
+   "Latitud": 16.67602,
+   "Longitud": -99.17806
+ },
+ {
+   "Ciudad": "General Canuto A Neri",
+   "Latitud": 18.41867,
+   "Longitud": -100.07421
+ },
+ {
+   "Ciudad": "General Heliodoro Castillo",
+   "Latitud": 17.91667,
+   "Longitud": -99.91667
+ },
+ {
+   "Ciudad": "Huamuxtitlan",
+   "Latitud": 17.80208,
+   "Longitud": -98.56477
+ },
+ {
+   "Ciudad": "Huitzuco de los Figueroa",
+   "Latitud": 18.125,
+   "Longitud": -99.26667
+ },
+ {
+   "Ciudad": "Iguala de La Independencia",
+   "Latitud": 18.34079,
+   "Longitud": -99.65253
+ },
+ {
+   "Ciudad": "Igualapa",
+   "Latitud": 16.81559,
+   "Longitud": -98.50655
+ },
+ {
+   "Ciudad": "Ixcateopan de Cuauhtemoc",
+   "Latitud": 18.4763,
+   "Longitud": -99.71568
+ },
+ {
+   "Ciudad": "Jose Azueta",
+   "Latitud": 17.64717,
+   "Longitud": -101.53529
+ },
+ {
+   "Ciudad": "Juan R Escudero",
+   "Latitud": 17.15478,
+   "Longitud": -99.40364
+ },
+ {
+   "Ciudad": "La Union de Isidoro Montes de Oca",
+   "Latitud": 17.88782,
+   "Longitud": -101.7278
+ },
+ {
+   "Ciudad": "Leonardo Bravo",
+   "Latitud": 17.65767,
+   "Longitud": -99.67615
+ },
+ {
+   "Ciudad": "Malinaltepec",
+   "Latitud": 17.29167,
+   "Longitud": -98.63333
+ },
+ {
+   "Ciudad": "Marquelia",
+   "Latitud": 16.58203,
+   "Longitud": -98.8169
+ },
+ {
+   "Ciudad": "Martir de Cuilapan",
+   "Latitud": 17.79409,
+   "Longitud": -99.38803
+ },
+ {
+   "Ciudad": "Metlatonoc",
+   "Latitud": 17.19374,
+   "Longitud": -98.40854
+ },
+ {
+   "Ciudad": "Mochitlan",
+   "Latitud": 17.47269,
+   "Longitud": -99.37133
+ },
+ {
+   "Ciudad": "Olinala",
+   "Latitud": 17.89586,
+   "Longitud": -98.71279
+ },
+ {
+   "Ciudad": "Ometepec",
+   "Latitud": 16.69639,
+   "Longitud": -98.41168
+ },
+ {
+   "Ciudad": "Pedro Ascencio Alquisiras",
+   "Latitud": 16.46667,
+   "Longitud": -98.41667
+ },
+ {
+   "Ciudad": "Petatlan",
+   "Latitud": 17.37484,
+   "Longitud": -101.11384
+ },
+ {
+   "Ciudad": "Pilcaya",
+   "Latitud": 17.9,
+   "Longitud": -99.65
+ },
+ {
+   "Ciudad": "Pungarabato",
+   "Latitud": 18.32081,
+   "Longitud": -100.58877
+ },
+ {
+   "Ciudad": "Quechultenango",
+   "Latitud": 17.41119,
+   "Longitud": -99.24269
+ },
+ {
+   "Ciudad": "San Luis Acatlan",
+   "Latitud": 16.80707,
+   "Longitud": -98.73501
+ },
+ {
+   "Ciudad": "San Marcos",
+   "Latitud": 16.96879,
+   "Longitud": -99.604
+ },
+ {
+   "Ciudad": "San Miguel Totolapan",
+   "Latitud": 17.87624,
+   "Longitud": -100.2658
+ },
+ {
+   "Ciudad": "Taxco de Alarcon",
+   "Latitud": 18.5669,
+   "Longitud": -99.57213
+ },
+ {
+   "Ciudad": "Tecoanapa",
+   "Latitud": 16.98755,
+   "Longitud": -99.26114
+ },
+ {
+   "Ciudad": "Tecpan de Galeana",
+   "Latitud": 17.21954,
+   "Longitud": -100.62971
+ },
+ {
+   "Ciudad": "Acuitzio",
+   "Latitud": 19.47457,
+   "Longitud": -101.35249
+ },
+ {
+   "Ciudad": "Aguililla",
+   "Latitud": 18.73739,
+   "Longitud": -102.79034
+ },
+ {
+   "Ciudad": "alvaro Obregon",
+   "Latitud": 19.88091,
+   "Longitud": -100.92791
+ },
+ {
+   "Ciudad": "Angamacutiro",
+   "Latitud": 20.14006,
+   "Longitud": -101.79577
+ },
+ {
+   "Ciudad": "Angangueo",
+   "Latitud": 19.61533,
+   "Longitud": -100.28587
+ },
+ {
+   "Ciudad": "Apatzingan",
+   "Latitud": 19.08895,
+   "Longitud": -102.36637
+ },
+ {
+   "Ciudad": "Aporo",
+   "Latitud": 19.67089,
+   "Longitud": -100.41149
+ },
+ {
+   "Ciudad": "Aquila",
+   "Latitud": 18.56791,
+   "Longitud": -103.18291
+ },
+ {
+   "Ciudad": "Ario",
+   "Latitud": 19.20772,
+   "Longitud": -101.72268
+ },
+ {
+   "Ciudad": "Arteaga",
+   "Latitud": 18.38778,
+   "Longitud": -102.64173
+ },
+ {
+   "Ciudad": "Brise�as",
+   "Latitud": 20.26859,
+   "Longitud": -102.57095
+ },
+ {
+   "Ciudad": "Buenavista Tomatlan",
+   "Latitud": 19.20868,
+   "Longitud": -102.58822
+ },
+ {
+   "Ciudad": "Caracuaro",
+   "Latitud": 18.99987,
+   "Longitud": -101.18488
+ },
+ {
+   "Ciudad": "Coahuayana",
+   "Latitud": 18.69794,
+   "Longitud": -103.67271
+ },
+ {
+   "Ciudad": "Coalcoman de Vazquez Pallares",
+   "Latitud": 18.78032,
+   "Longitud": -103.1739
+ },
+ {
+   "Ciudad": "Coeneo",
+   "Latitud": 19.78722,
+   "Longitud": -101.68953
+ },
+ {
+   "Ciudad": "Contepec",
+   "Latitud": 19.96088,
+   "Longitud": -100.27409
+ },
+ {
+   "Ciudad": "Copandaro",
+   "Latitud": 19.89802,
+   "Longitud": -101.66583
+ },
+ {
+   "Ciudad": "Cotija de la Paz",
+   "Latitud": 19.75124,
+   "Longitud": -102.83707
+ },
+ {
+   "Ciudad": "Cuitzeo del Porvenir",
+   "Latitud": 19.96865,
+   "Longitud": -101.1524
+ },
+ {
+   "Ciudad": "Charapan",
+   "Latitud": 19.64569,
+   "Longitud": -102.25975
+ },
+ {
+   "Ciudad": "Charo",
+   "Latitud": 19.74551,
+   "Longitud": -101.05304
+ },
+ {
+   "Ciudad": "Chavinda",
+   "Latitud": 20.00395,
+   "Longitud": -102.4691
+ },
+ {
+   "Ciudad": "Cheran",
+   "Latitud": 19.68461,
+   "Longitud": -101.96306
+ },
+ {
+   "Ciudad": "Chilchota",
+   "Latitud": 19.84514,
+   "Longitud": -102.12332
+ },
+ {
+   "Ciudad": "Chinicuila",
+   "Latitud": 18.74647,
+   "Longitud": -103.55062
+ },
+ {
+   "Ciudad": "Chucandiro",
+   "Latitud": 19.90114,
+   "Longitud": -101.33482
+ },
+ {
+   "Ciudad": "Churintzio",
+   "Latitud": 20.14848,
+   "Longitud": -102.07557
+ },
+ {
+   "Ciudad": "Churumuco",
+   "Latitud": 18.72077,
+   "Longitud": -101.79483
+ },
+ {
+   "Ciudad": "Ecuandureo",
+   "Latitud": 20.16103,
+   "Longitud": -102.32503
+ },
+ {
+   "Ciudad": "Epitacio Huerta",
+   "Latitud": 20.13656,
+   "Longitud": -100.2939
+ },
+ {
+   "Ciudad": "Erongaricuaro",
+   "Latitud": 19.58791,
+   "Longitud": -101.72537
+ },
+ {
+   "Ciudad": "Gabriel Zamora",
+   "Latitud": 19.15524,
+   "Longitud": -102.06952
+ },
+ {
+   "Ciudad": "Hidalgo",
+   "Latitud": 19.787,
+   "Longitud": -101.10569
+ },
+ {
+   "Ciudad": "La Huacana",
+   "Latitud": 18.96416,
+   "Longitud": -101.81386
+ },
+ {
+   "Ciudad": "Huandacareo",
+   "Latitud": 19.98843,
+   "Longitud": -101.28274
+ },
+ {
+   "Ciudad": "Huaniqueo",
+   "Latitud": 19.87794,
+   "Longitud": -101.56773
+ },
+ {
+   "Ciudad": "Huetamo",
+   "Latitud": 18.62925,
+   "Longitud": -100.91801
+ },
+ {
+   "Ciudad": "Huiramba",
+   "Latitud": 19.54571,
+   "Longitud": -101.43777
+ },
+ {
+   "Ciudad": "Indaparapeo",
+   "Latitud": 19.79278,
+   "Longitud": -100.97137
+ },
+ {
+   "Ciudad": "Irimbo",
+   "Latitud": 19.69713,
+   "Longitud": -100.47978
+ },
+ {
+   "Ciudad": "Ixtlan",
+   "Latitud": 20.16396,
+   "Longitud": -102.38794
+ },
+ {
+   "Ciudad": "Jacona",
+   "Latitud": 19.95047,
+   "Longitud": -102.31583
+ },
+ {
+   "Ciudad": "Jimenez",
+   "Latitud": 19.92392,
+   "Longitud": -101.75956
+ },
+ {
+   "Ciudad": "Jiquilpan",
+   "Latitud": 19.99422,
+   "Longitud": -102.71993
+ },
+ {
+   "Ciudad": "Juarez",
+   "Latitud": 19.31386,
+   "Longitud": -100.42722
+ },
+ {
+   "Ciudad": "Jungapeo",
+   "Latitud": 19.46064,
+   "Longitud": -100.49314
+ },
+ {
+   "Ciudad": "Lagunillas",
+   "Latitud": 19.56488,
+   "Longitud": -101.41398
+ },
+ {
+   "Ciudad": "Madero",
+   "Latitud": 19.39164,
+   "Longitud": -101.28486
+ },
+ {
+   "Ciudad": "Maravatio",
+   "Latitud": 19.89719,
+   "Longitud": -100.45792
+ },
+ {
+   "Ciudad": "San Jose de Garcia",
+   "Latitud": 19.98738,
+   "Longitud": -103.01805
+ },
+ {
+   "Ciudad": "Lazaro Cardenas",
+   "Latitud": 17.95806,
+   "Longitud": -102.19467
+ },
+ {
+   "Ciudad": "Morelia",
+   "Latitud": 19.70558,
+   "Longitud": -101.19823
+ },
+ {
+   "Ciudad": "Morelos",
+   "Latitud": 20.00289,
+   "Longitud": -101.41421
+ },
+ {
+   "Ciudad": "M�gica",
+   "Latitud": 19.0205,
+   "Longitud": -102.09744
+ },
+ {
+   "Ciudad": "Nahuatzen",
+   "Latitud": 19.65108,
+   "Longitud": -101.92442
+ },
+ {
+   "Ciudad": "Nocupetaro",
+   "Latitud": 19.04535,
+   "Longitud": -101.1587
+ },
+ {
+   "Ciudad": "Nuevo san juan Parangaricutiro",
+   "Latitud": 19.41814,
+   "Longitud": -102.11257
+ },
+ {
+   "Ciudad": "Nuevo Urecho",
+   "Latitud": 19.16471,
+   "Longitud": -101.86782
+ },
+ {
+   "Ciudad": "Numaran",
+   "Latitud": 20.25616,
+   "Longitud": -101.95554
+ },
+ {
+   "Ciudad": "Ocampo",
+   "Latitud": 19.58305,
+   "Longitud": -100.3426
+ },
+ {
+   "Ciudad": "Pajacuaran",
+   "Latitud": 20.11979,
+   "Longitud": -102.56294
+ },
+ {
+   "Ciudad": "Panindicuaro",
+   "Latitud": 19.98406,
+   "Longitud": -101.76401
+ },
+ {
+   "Ciudad": "Paracuaro",
+   "Latitud": 19.96512,
+   "Longitud": -100.92308
+ },
+ {
+   "Ciudad": "Paracho",
+   "Latitud": 19.64675,
+   "Longitud": -102.04759
+ },
+ {
+   "Ciudad": "Patzcuaro",
+   "Latitud": 19.51242,
+   "Longitud": -101.61148
+ },
+ {
+   "Ciudad": "Penjamillo",
+   "Latitud": 20.10592,
+   "Longitud": -101.93549
+ },
+ {
+   "Ciudad": "Periban",
+   "Latitud": 19.51834,
+   "Longitud": -102.42646
+ },
+ {
+   "Ciudad": "La Piedad",
+   "Latitud": 20.33042,
+   "Longitud": -102.04353
+ },
+ {
+   "Ciudad": "Purepero",
+   "Latitud": 19.90627,
+   "Longitud": -102.00498
+ },
+ {
+   "Ciudad": "Puruandiro",
+   "Latitud": 20.08778,
+   "Longitud": -101.51592
+ },
+ {
+   "Ciudad": "Querendaro",
+   "Latitud": 19.80808,
+   "Longitud": -100.88816
+ },
+ {
+   "Ciudad": "Quiroga",
+   "Latitud": 19.66537,
+   "Longitud": -101.52436
+ },
+ {
+   "Ciudad": "Cojumatlan de Regules",
+   "Latitud": 20.11593,
+   "Longitud": -102.854
+ },
+ {
+   "Ciudad": "Los Reyes",
+   "Latitud": 19.58834,
+   "Longitud": -102.4724
+ },
+ {
+   "Ciudad": "Sahuayo",
+   "Latitud": 20.06009,
+   "Longitud": -102.71538
+ },
+ {
+   "Ciudad": "San Lucas",
+   "Latitud": 18.59086,
+   "Longitud": -100.78973
+ },
+ {
+   "Ciudad": "Santa Ana Maya",
+   "Latitud": 20.00858,
+   "Longitud": -101.02181
+ },
+ {
+   "Ciudad": "Salvador Escalante",
+   "Latitud": 19.40605,
+   "Longitud": -101.64011
+ },
+ {
+   "Ciudad": "Senguio",
+   "Latitud": 19.73352,
+   "Longitud": -100.35391
+ },
+ {
+   "Ciudad": "Susupuato",
+   "Latitud": 19.21967,
+   "Longitud": -100.40086
+ },
+ {
+   "Ciudad": "Tacambaro",
+   "Latitud": 19.23418,
+   "Longitud": -101.45972
+ },
+ {
+   "Ciudad": "Tancitaro",
+   "Latitud": 19.33665,
+   "Longitud": -102.36523
+ },
+ {
+   "Ciudad": "Tangamandapio",
+   "Latitud": 19.9496,
+   "Longitud": -102.45404
+ },
+ {
+   "Ciudad": "Tangancicuaro",
+   "Latitud": 19.88572,
+   "Longitud": -102.20984
+ },
+ {
+   "Ciudad": "Tanhuato",
+   "Latitud": 20.28415,
+   "Longitud": -102.33801
+ },
+ {
+   "Ciudad": "Taretan",
+   "Latitud": 19.33444,
+   "Longitud": -101.91775
+ },
+ {
+   "Ciudad": "Tarimbaro",
+   "Latitud": 19.791,
+   "Longitud": -101.17544
+ },
+ {
+   "Ciudad": "Tepalcatepec",
+   "Latitud": 19.19054,
+   "Longitud": -102.84746
+ },
+ {
+   "Ciudad": "Tingambato",
+   "Latitud": 19.50156,
+   "Longitud": -101.85173
+ },
+ {
+   "Ciudad": "Tinguindin",
+   "Latitud": 19.73891,
+   "Longitud": -102.48631
+ },
+ {
+   "Ciudad": "Tiquicheo de Nicolas Romero",
+   "Latitud": 18.90749,
+   "Longitud": -100.73587
+ },
+ {
+   "Ciudad": "Tlalpujahua",
+   "Latitud": 19.80741,
+   "Longitud": -100.17092
+ },
+ {
+   "Ciudad": "Tlazazalca",
+   "Latitud": 19.97043,
+   "Longitud": -102.05553
+ },
+ {
+   "Ciudad": "Tocumbo",
+   "Latitud": 19.7022,
+   "Longitud": -102.5222
+ },
+ {
+   "Ciudad": "Tumbiscatio",
+   "Latitud": 18.52102,
+   "Longitud": -102.37194
+ },
+ {
+   "Ciudad": "Turicato",
+   "Latitud": 19.0528,
+   "Longitud": -101.4183
+ },
+ {
+   "Ciudad": "Tuxpan",
+   "Latitud": 19.5681,
+   "Longitud": -100.46404
+ },
+ {
+   "Ciudad": "Tuzantla",
+   "Latitud": 19.20307,
+   "Longitud": -100.58159
+ },
+ {
+   "Ciudad": "Tzintzuntzan",
+   "Latitud": 19.62883,
+   "Longitud": -101.57624
+ },
+ {
+   "Ciudad": "Tzitzio",
+   "Latitud": 19.58604,
+   "Longitud": -100.92403
+ },
+ {
+   "Ciudad": "Uruapan",
+   "Latitud": 19.40519,
+   "Longitud": -102.04218
+ },
+ {
+   "Ciudad": "Venustiano Carranza",
+   "Latitud": 20.11665,
+   "Longitud": -102.65186
+ },
+ {
+   "Ciudad": "Villamar",
+   "Latitud": 20.02122,
+   "Longitud": -102.59513
+ },
+ {
+   "Ciudad": "Vista Hermosa",
+   "Latitud": 20.27572,
+   "Longitud": -102.47819
+ },
+ {
+   "Ciudad": "Yurecuaro",
+   "Latitud": 20.33,
+   "Longitud": -102.28429
+ },
+ {
+   "Ciudad": "Zacapu",
+   "Latitud": 19.81219,
+   "Longitud": -101.79471
+ },
+ {
+   "Ciudad": "Zamora",
+   "Latitud": 19.99013,
+   "Longitud": -102.28325
+ },
+ {
+   "Ciudad": "Zinaparo",
+   "Latitud": 20.17035,
+   "Longitud": -102.00008
+ },
+ {
+   "Ciudad": "Zinapecuaro",
+   "Latitud": 19.86149,
+   "Longitud": -100.8257
+ },
+ {
+   "Ciudad": "Ziracueretiro",
+   "Latitud": 19.4171,
+   "Longitud": -101.90994
+ },
+ {
+   "Ciudad": "Zitacuaro",
+   "Latitud": 19.43248,
+   "Longitud": -100.356
+ },
+ {
+   "Ciudad": "Jose Sixto Verduzco",
+   "Latitud": 20.30622,
+   "Longitud": -101.59896
+ },
+ {
+   "Ciudad": "Amacuzac",
+   "Latitud": 18.59883,
+   "Longitud": -99.36918
+ },
+ {
+   "Ciudad": "Atlatlahucan",
+   "Latitud": 18.93139,
+   "Longitud": -98.89913
+ },
+ {
+   "Ciudad": "Axochiapan",
+   "Latitud": 18.49819,
+   "Longitud": -98.75175
+ },
+ {
+   "Ciudad": "Ayala",
+   "Latitud": 18.76625,
+   "Longitud": -98.98417
+ },
+ {
+   "Ciudad": "Coatlan del Rio",
+   "Latitud": 18.67989,
+   "Longitud": -99.46393
+ },
+ {
+   "Ciudad": "Cuernavaca",
+   "Latitud": 18.94315,
+   "Longitud": -99.30873
+ },
+ {
+   "Ciudad": "Huitzilac",
+   "Latitud": 19.05366,
+   "Longitud": -99.24135
+ },
+ {
+   "Ciudad": "Jantetelco",
+   "Latitud": 18.71574,
+   "Longitud": -98.79673
+ },
+ {
+   "Ciudad": "Jiutepec",
+   "Latitud": 18.91295,
+   "Longitud": -99.20015
+ },
+ {
+   "Ciudad": "Jojutla",
+   "Latitud": 18.62486,
+   "Longitud": -99.18351
+ },
+ {
+   "Ciudad": "Jonacatepec",
+   "Latitud": 18.68051,
+   "Longitud": -98.80373
+ },
+ {
+   "Ciudad": "Mazatepec",
+   "Latitud": 18.72555,
+   "Longitud": -99.3628
+ },
+ {
+   "Ciudad": "Miacatlan",
+   "Latitud": 18.72892,
+   "Longitud": -99.32623
+ },
+ {
+   "Ciudad": "Ocuituco",
+   "Latitud": 18.87766,
+   "Longitud": -98.77393
+ },
+ {
+   "Ciudad": "Puente de Ixtla",
+   "Latitud": 18.68427,
+   "Longitud": -99.24606
+ },
+ {
+   "Ciudad": "Temixco",
+   "Latitud": 18.8972,
+   "Longitud": -99.23048
+ },
+ {
+   "Ciudad": "Temoac",
+   "Latitud": 18.74309,
+   "Longitud": -98.76901
+ },
+ {
+   "Ciudad": "Tepalcingo",
+   "Latitud": 18.65023,
+   "Longitud": -98.83141
+ },
+ {
+   "Ciudad": "Tepoztlan",
+   "Latitud": 18.93333,
+   "Longitud": -98.81667
+ },
+ {
+   "Ciudad": "Tetecala",
+   "Latitud": 18.73178,
+   "Longitud": -99.40818
+ },
+ {
+   "Ciudad": "Tetela del Volcan",
+   "Latitud": 18.89259,
+   "Longitud": -98.73013
+ },
+ {
+   "Ciudad": "Tlalnepantla",
+   "Latitud": 19.00949,
+   "Longitud": -98.99825
+ },
+ {
+   "Ciudad": "Tlaltizapan",
+   "Latitud": 18.69298,
+   "Longitud": -99.11754
+ },
+ {
+   "Ciudad": "Tlaquiltenango",
+   "Latitud": 18.4622,
+   "Longitud": -98.97501
+ },
+ {
+   "Ciudad": "Tlayacapan",
+   "Latitud": 18.95428,
+   "Longitud": -98.9839
+ },
+ {
+   "Ciudad": "Totolapan",
+   "Latitud": 18.99351,
+   "Longitud": -98.93237
+ },
+ {
+   "Ciudad": "Xochitepec",
+   "Latitud": 18.84359,
+   "Longitud": -99.20797
+ },
+ {
+   "Ciudad": "Yautepec",
+   "Latitud": 18.90286,
+   "Longitud": -99.03388
+ },
+ {
+   "Ciudad": "Yecapixtla",
+   "Latitud": 18.94773,
+   "Longitud": -98.82715
+ },
+ {
+   "Ciudad": "Zacatepec de Hidalgo",
+   "Latitud": 18.64116,
+   "Longitud": -99.2114
+ },
+ {
+   "Ciudad": "Zacualpan de Amilpas",
+   "Latitud": 18.78646,
+   "Longitud": -98.76691
+ },
+ {
+   "Ciudad": "Acambay",
+   "Latitud": 19.95389,
+   "Longitud": -99.84306
+ },
+ {
+   "Ciudad": "Acolman",
+   "Latitud": 19.64146,
+   "Longitud": -98.88145
+ },
+ {
+   "Ciudad": "Aculco",
+   "Latitud": 20.0982,
+   "Longitud": -99.8281
+ },
+ {
+   "Ciudad": "Almoloya-de-Alquisiras",
+   "Latitud": 18.55,
+   "Longitud": -100.30833
+ },
+ {
+   "Ciudad": "Almoloya-de-Juarez",
+   "Latitud": 19.37314,
+   "Longitud": -99.83481
+ },
+ {
+   "Ciudad": "Almoloya-del-Rio",
+   "Latitud": 19.15861,
+   "Longitud": -99.48861
+ },
+ {
+   "Ciudad": "Amanalco",
+   "Latitud": 19.86389,
+   "Longitud": -99.71222
+ },
+ {
+   "Ciudad": "Amatepec",
+   "Latitud": 18.67563,
+   "Longitud": -100.2429
+ },
+ {
+   "Ciudad": "Amecameca",
+   "Latitud": 19.11666,
+   "Longitud": -98.75546
+ },
+ {
+   "Ciudad": "Apaxco",
+   "Latitud": 19.56326,
+   "Longitud": -99.31564
+ },
+ {
+   "Ciudad": "Atenco",
+   "Latitud": 19.44735,
+   "Longitud": -98.94447
+ },
+ {
+   "Ciudad": "Atizapan",
+   "Latitud": 19.17556,
+   "Longitud": -99.48861
+ },
+ {
+   "Ciudad": "Atizapan-de-Zaragoza",
+   "Latitud": 19.59387,
+   "Longitud": -99.25025
+ },
+ {
+   "Ciudad": "Atlacomulco",
+   "Latitud": 19.80099,
+   "Longitud": -99.87672
+ },
+ {
+   "Ciudad": "Atlautla",
+   "Latitud": 19.02764,
+   "Longitud": -98.78088
+ },
+ {
+   "Ciudad": "Axapusco",
+   "Latitud": 19.74558,
+   "Longitud": -98.68957
+ },
+ {
+   "Ciudad": "Ayapango",
+   "Latitud": 19.12769,
+   "Longitud": -98.80354
+ },
+ {
+   "Ciudad": "Calimaya",
+   "Latitud": 19.16564,
+   "Longitud": -99.61778
+ },
+ {
+   "Ciudad": "Capulhuac",
+   "Latitud": 19.21259,
+   "Longitud": -99.44629
+ },
+ {
+   "Ciudad": "Chalco",
+   "Latitud": 19.26683,
+   "Longitud": -98.89585
+ },
+ {
+   "Ciudad": "Chapa-de-Mota",
+   "Latitud": 19.84754,
+   "Longitud": -99.47325
+ },
+ {
+   "Ciudad": "Chapultepec",
+   "Latitud": 19.20076,
+   "Longitud": -99.56182
+ },
+ {
+   "Ciudad": "Chiautla",
+   "Latitud": 19.53333,
+   "Longitud": -98.88333
+ },
+ {
+   "Ciudad": "Chicoloapan",
+   "Latitud": 19.39534,
+   "Longitud": -98.93298
+ },
+ {
+   "Ciudad": "Chiconcuac",
+   "Latitud": 19.56004,
+   "Longitud": -98.8997
+ },
+ {
+   "Ciudad": "Chimalhuacan",
+   "Latitud": 19.4375,
+   "Longitud": -98.95417
+ },
+ {
+   "Ciudad": "Coacalco-de-Berriozabal",
+   "Latitud": 19.63147,
+   "Longitud": -99.10718
+ },
+ {
+   "Ciudad": "Coatepec-Harinas",
+   "Latitud": 18.90518,
+   "Longitud": -99.7873
+ },
+ {
+   "Ciudad": "Cocotitlan",
+   "Latitud": 19.23315,
+   "Longitud": -98.865
+ },
+ {
+   "Ciudad": "Coyotepec",
+   "Latitud": 19.77459,
+   "Longitud": -99.21669
+ },
+ {
+   "Ciudad": "Cuautitlan",
+   "Latitud": 19.67241,
+   "Longitud": -99.17615
+ },
+ {
+   "Ciudad": "Cuautitlan-Izcalli",
+   "Latitud": 19.63343,
+   "Longitud": -99.20404
+ },
+ {
+   "Ciudad": "Donato-Guerra",
+   "Latitud": 19.34937,
+   "Longitud": -100.19412
+ },
+ {
+   "Ciudad": "Ecatepec-de-Morelos",
+   "Latitud": 19.51129,
+   "Longitud": -99.0267
+ },
+ {
+   "Ciudad": "Ecatzingo",
+   "Latitud": 18.95583,
+   "Longitud": -98.75278
+ },
+ {
+   "Ciudad": "Huehuetoca",
+   "Latitud": 19.84892,
+   "Longitud": -99.20197
+ },
+ {
+   "Ciudad": "Hueypoxtla",
+   "Latitud": 19.93546,
+   "Longitud": -99.05421
+ },
+ {
+   "Ciudad": "Huixquilucan",
+   "Latitud": 19.35791,
+   "Longitud": -99.34564
+ },
+ {
+   "Ciudad": "Isidro-Fabela",
+   "Latitud": 19.65271,
+   "Longitud": -99.21591
+ },
+ {
+   "Ciudad": "Ixtapaluca",
+   "Latitud": 19.31693,
+   "Longitud": -98.89458
+ },
+ {
+   "Ciudad": "Ixtapan-de-La-Sal",
+   "Latitud": 18.84376,
+   "Longitud": -99.67554
+ },
+ {
+   "Ciudad": "Ixtapan-Del-Oro",
+   "Latitud": 19.24766,
+   "Longitud": -100.29436
+ },
+ {
+   "Ciudad": "Ixtlahuaca",
+   "Latitud": 19.56088,
+   "Longitud": -99.7653
+ },
+ {
+   "Ciudad": "Jaltenco",
+   "Latitud": 19.74365,
+   "Longitud": -99.08992
+ },
+ {
+   "Ciudad": "Jilotepec",
+   "Latitud": 19.97937,
+   "Longitud": -99.607
+ },
+ {
+   "Ciudad": "Jilotzingo",
+   "Latitud": 19.86986,
+   "Longitud": -99.05651
+ },
+ {
+   "Ciudad": "Jiquipilco",
+   "Latitud": 19.55735,
+   "Longitud": -99.60675
+ },
+ {
+   "Ciudad": "Jocotitlan",
+   "Latitud": 19.50922,
+   "Longitud": -99.08341
+ },
+ {
+   "Ciudad": "Joquicingo",
+   "Latitud": 19.02271,
+   "Longitud": -99.47899
+ },
+ {
+   "Ciudad": "Juchitepec",
+   "Latitud": 19.09671,
+   "Longitud": -98.87042
+ },
+ {
+   "Ciudad": "Lerma",
+   "Latitud": 19.31501,
+   "Longitud": -99.5728
+ },
+ {
+   "Ciudad": "Luvianos",
+   "Latitud": 18.92166,
+   "Longitud": -100.29931
+ },
+ {
+   "Ciudad": "Malinalco",
+   "Latitud": 20.03333,
+   "Longitud": -99.68333
+ },
+ {
+   "Ciudad": "Melchor-Ocampo",
+   "Latitud": 19.715,
+   "Longitud": -99.1346
+ },
+ {
+   "Ciudad": "Mexicaltzingo",
+   "Latitud": 19.34501,
+   "Longitud": -99.10407
+ },
+ {
+   "Ciudad": "Naucalpan-de-Juarez",
+   "Latitud": 19.47528,
+   "Longitud": -99.23778
+ },
+ {
+   "Ciudad": "Nextlalpan",
+   "Latitud": 19.73904,
+   "Longitud": -99.06843
+ },
+ {
+   "Ciudad": "Nezahualcoyotl",
+   "Latitud": 19.40801,
+   "Longitud": -99.00493
+ },
+ {
+   "Ciudad": "Nicolas-Romero",
+   "Latitud": 19.60733,
+   "Longitud": -99.32267
+ },
+ {
+   "Ciudad": "Nopaltepec",
+   "Latitud": 19.78194,
+   "Longitud": -98.7125
+ },
+ {
+   "Ciudad": "Ocoyoacac",
+   "Latitud": 19.27167,
+   "Longitud": -99.46116
+ },
+ {
+   "Ciudad": "Ocuilan",
+   "Latitud": 18.94731,
+   "Longitud": -99.33409
+ },
+ {
+   "Ciudad": "Otumba",
+   "Latitud": 19.69831,
+   "Longitud": -98.74886
+ },
+ {
+   "Ciudad": "Otzoloapan",
+   "Latitud": 19.09728,
+   "Longitud": -100.28535
+ },
+ {
+   "Ciudad": "Otzolotepec",
+   "Latitud": 19.36464,
+   "Longitud": -99.60808
+ },
+ {
+   "Ciudad": "Ozumba",
+   "Latitud": 19.31,
+   "Longitud": -99.04458
+ },
+ {
+   "Ciudad": "Papalotla",
+   "Latitud": 19.5625,
+   "Longitud": -98.85793
+ },
+ {
+   "Ciudad": "Polotitlan",
+   "Latitud": 20.2407,
+   "Longitud": -99.86357
+ },
+ {
+   "Ciudad": "San-Antonio-La-Isla",
+   "Latitud": 19.16355,
+   "Longitud": -99.56862
+ },
+ {
+   "Ciudad": "San-Felipe-Del-Progreso",
+   "Latitud": 19.58154,
+   "Longitud": -100.02269
+ },
+ {
+   "Ciudad": "San-Jose-del-Rincon",
+   "Latitud": 18.89459,
+   "Longitud": -96.941
+ },
+ {
+   "Ciudad": "San-Martin-de-las-Piramides",
+   "Latitud": 18.9,
+   "Longitud": -99.71667
+ },
+ {
+   "Ciudad": "San-Mateo-Atenco",
+   "Latitud": 19.29222,
+   "Longitud": -99.59052
+ },
+ {
+   "Ciudad": "San-Simon-de-Guerrero",
+   "Latitud": 19.0123,
+   "Longitud": -100.04432
+ },
+ {
+   "Ciudad": "Santo-Tomas",
+   "Latitud": 18.84413,
+   "Longitud": -100.0178
+ },
+ {
+   "Ciudad": "Soyaniquilpan-de-Juarez",
+   "Latitud": 19.98333,
+   "Longitud": -99.5
+ },
+ {
+   "Ciudad": "Sultepec",
+   "Latitud": 18.48775,
+   "Longitud": -100.15011
+ },
+ {
+   "Ciudad": "Tecamac",
+   "Latitud": 19.71493,
+   "Longitud": -98.96736
+ },
+ {
+   "Ciudad": "Tejupilco",
+   "Latitud": 18.83686,
+   "Longitud": -100.26772
+ },
+ {
+   "Ciudad": "Temamatla",
+   "Latitud": 19.19928,
+   "Longitud": -98.85985
+ },
+ {
+   "Ciudad": "Temascalapa",
+   "Latitud": 19.82576,
+   "Longitud": -98.90013
+ },
+ {
+   "Ciudad": "Temascalcingo",
+   "Latitud": 19.94737,
+   "Longitud": -100.00251
+ },
+ {
+   "Ciudad": "Temascaltepec",
+   "Latitud": 19.04996,
+   "Longitud": -100.01303
+ },
+ {
+   "Ciudad": "Temoaya",
+   "Latitud": 19.46636,
+   "Longitud": -99.59462
+ },
+ {
+   "Ciudad": "Tenancingo",
+   "Latitud": 18.95954,
+   "Longitud": -99.59239
+ },
+ {
+   "Ciudad": "Tenango-Del-Aire",
+   "Latitud": 19.14046,
+   "Longitud": -98.84573
+ },
+ {
+   "Ciudad": "Tenango-Del-Valle",
+   "Latitud": 19.07121,
+   "Longitud": -99.60757
+ },
+ {
+   "Ciudad": "Teoloyucan",
+   "Latitud": 19.74558,
+   "Longitud": -99.18405
+ },
+ {
+   "Ciudad": "Teotihuacan",
+   "Latitud": 19.68333,
+   "Longitud": -98.86667
+ },
+ {
+   "Ciudad": "Tepetlaoxtoc",
+   "Latitud": 19.58202,
+   "Longitud": -98.84034
+ },
+ {
+   "Ciudad": "Tepetlixpa",
+   "Latitud": 18.9817,
+   "Longitud": -98.84103
+ },
+ {
+   "Ciudad": "Tepotzotlan",
+   "Latitud": 19.70618,
+   "Longitud": -99.23913
+ },
+ {
+   "Ciudad": "Tequixquiac",
+   "Latitud": 19.90366,
+   "Longitud": -99.1422
+ },
+ {
+   "Ciudad": "Texcaltitlan",
+   "Latitud": 18.91948,
+   "Longitud": -99.94526
+ },
+ {
+   "Ciudad": "Texcalyacac",
+   "Latitud": 19.13161,
+   "Longitud": -99.50031
+ },
+ {
+   "Ciudad": "Texcoco",
+   "Latitud": 19.38408,
+   "Longitud": -99.02161
+ },
+ {
+   "Ciudad": "Tezoyuca",
+   "Latitud": 19.5915,
+   "Longitud": -98.9141
+ },
+ {
+   "Ciudad": "Tianguistenco",
+   "Latitud": 19.49016,
+   "Longitud": -99.0298
+ },
+ {
+   "Ciudad": "Timilpan",
+   "Latitud": 19.86167,
+   "Longitud": -99.70026
+ },
+ {
+   "Ciudad": "Tlalmanalco",
+   "Latitud": 19.20583,
+   "Longitud": -98.80216
+ },
+ {
+   "Ciudad": "Tlalnepantla-de-Baz",
+   "Latitud": 19.53864,
+   "Longitud": -99.19867
+ },
+ {
+   "Ciudad": "Tlatlaya",
+   "Latitud": 18.61585,
+   "Longitud": -100.20827
+ },
+ {
+   "Ciudad": "Toluca",
+   "Latitud": 19.35601,
+   "Longitud": -99.70051
+ },
+ {
+   "Ciudad": "Tonanitla",
+   "Latitud": 19.68667,
+   "Longitud": -99.05105
+ },
+ {
+   "Ciudad": "Tonatico",
+   "Latitud": 18.8028,
+   "Longitud": -99.67002
+ },
+ {
+   "Ciudad": "Tultepec",
+   "Latitud": 19.68068,
+   "Longitud": -99.13372
+ },
+ {
+   "Ciudad": "Tultitlan",
+   "Latitud": 19.6432,
+   "Longitud": -99.16466
+ },
+ {
+   "Ciudad": "Valle-de-Bravo",
+   "Latitud": 19.16018,
+   "Longitud": -100.1344
+ },
+ {
+   "Ciudad": "Valle-de-Chalco-Solidaridad",
+   "Latitud": 19.28303,
+   "Longitud": -98.95381
+ },
+ {
+   "Ciudad": "Villa-de-Allende",
+   "Latitud": 19.39252,
+   "Longitud": -100.04544
+ },
+ {
+   "Ciudad": "Villa-del-Carbon",
+   "Latitud": 19.72234,
+   "Longitud": -99.46158
+ },
+ {
+   "Ciudad": "Villa-Victoria",
+   "Latitud": 19.59168,
+   "Longitud": -100.16029
+ },
+ {
+   "Ciudad": "Xalatlaco",
+   "Latitud": 19.17965,
+   "Longitud": -99.416
+ },
+ {
+   "Ciudad": "Xonacatlan",
+   "Latitud": 19.55098,
+   "Longitud": -99.26439
+ },
+ {
+   "Ciudad": "Zacazonapan",
+   "Latitud": 19.05923,
+   "Longitud": -100.28256
+ },
+ {
+   "Ciudad": "Zacualpan",
+   "Latitud": 18.81121,
+   "Longitud": -99.78444
+ },
+ {
+   "Ciudad": "Zinacantepec",
+   "Latitud": 19.24623,
+   "Longitud": -99.76041
+ },
+ {
+   "Ciudad": "Zumpahuacan",
+   "Latitud": 18.83457,
+   "Longitud": -99.58148
+ },
+ {
+   "Ciudad": "Zumpango",
+   "Latitud": 19.8061,
+   "Longitud": -99.04099
+ }
+]
